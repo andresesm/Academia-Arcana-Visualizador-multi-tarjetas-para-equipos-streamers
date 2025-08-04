@@ -41,15 +41,17 @@ header {
 
 .profile-card {
     position: relative;
-    width: 350px;
+    width: 100%;
+    max-width: 350px;
     min-height: 200px;
     background: white;
     border-radius: 15px;
     box-shadow: 0 4px 15px rgba(0,0,0,0.2);
     text-align: center;
-    padding: 60px 20px 80px; /* top, sides, bottom (para que no choque con el social-box) */
+    padding: 60px 20px 80px;
     box-sizing: border-box;
 }
+
 
 
 .avatar {
@@ -73,6 +75,7 @@ header {
     bottom: -20px;
     left: 50%;
     transform: translateX(-50%);
+    color: white;
     background-color: #f47d31;
     border-radius: 20px;
     padding: 10px 15px;
