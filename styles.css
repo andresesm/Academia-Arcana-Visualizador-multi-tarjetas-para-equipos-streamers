@@ -82,7 +82,7 @@ header {
     transform: translateX(-50%);
     background-color: #f47d31;
     border-radius: 20px;
-    padding: 10px 15px;
+    padding: 10px 20px;
     display: flex;
     gap: 10px;
 }
@@ -90,7 +90,6 @@ header {
 .social-box a {
     color: white;
     text-decoration: none;
-    padding: 10px 20px;
 }
 
 .icon {
