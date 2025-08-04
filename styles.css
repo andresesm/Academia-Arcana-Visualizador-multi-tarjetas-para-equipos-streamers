@@ -44,18 +44,19 @@ header {
 
 .profile-card {
     position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     width: 100%;
     max-width: 325px;
-    min-height: 150px;
     background: white;
     border-radius: 15px;
     box-shadow: 0 4px 15px rgba(0,0,0,0.2);
-    text-align: center;
-    padding: 80px 20px;
+    padding: 60px 20px;
     box-sizing: border-box;
+    text-align: center;
 }
-
-
 
 .avatar {
     width: 100px;
@@ -70,7 +71,8 @@ header {
 }
 
 .info {
-    margin-bottom: 20px;
+    margin-top: 60px;
+    padding: 0 10px;
 }
 
 .social-box {
