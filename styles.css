@@ -45,13 +45,13 @@ header {
 .profile-card {
     position: relative;
     width: 100%;
-    max-width: 350px;
-    min-height: 200px;
+    max-width: 325px;
+    min-height: 150px;
     background: white;
     border-radius: 15px;
     box-shadow: 0 4px 15px rgba(0,0,0,0.2);
     text-align: center;
-    padding: 80px 20px 100px;
+    padding: 80px 20px;
     box-sizing: border-box;
 }
 
