@@ -111,9 +111,9 @@ header {
     -webkit-mask-image: url('assets/icon/x.svg');
 }
 
-.icon-instagram {
-    mask-image: url('assets/icon/instagram.svg');
-    -webkit-mask-image: url('assets/icon/instagram.svg');
+.icon-kick {
+    mask-image: url('assets/icon/kick.svg');
+    -webkit-mask-image: url('assets/icon/kick.svg');
 }
 
 .icon-kickalt {
