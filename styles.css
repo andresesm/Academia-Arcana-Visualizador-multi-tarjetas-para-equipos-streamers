@@ -42,13 +42,15 @@ header {
 .profile-card {
     position: relative;
     width: 350px;
-    height: 200px;
+    min-height: 200px;
     background: white;
     border-radius: 15px;
     box-shadow: 0 4px 15px rgba(0,0,0,0.2);
     text-align: center;
-    padding-top: 60px;
+    padding: 60px 20px 80px; /* top, sides, bottom (para que no choque con el social-box) */
+    box-sizing: border-box;
 }
+
 
 .avatar {
     width: 100px;
@@ -87,12 +89,13 @@ header {
     width: 24px;
     height: 24px;
     display: inline-block;
-    background-color: white;
+    background-color: currentColor;
     mask: url('assets/twitch.svg') no-repeat center;
     mask-size: contain;
     -webkit-mask: url('assets/twitch.svg') no-repeat center;
     -webkit-mask-size: contain;
 }
+
 
 .social-box.one-icon {
     padding: 10px;
