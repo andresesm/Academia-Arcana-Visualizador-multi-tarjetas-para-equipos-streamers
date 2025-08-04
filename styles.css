@@ -34,9 +34,9 @@ header {
 .card-container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-    max-width: 1400px; /* Esto limita visualmente a 4 tarjetas por fila */
+    max-width: 1600px; /* Esto limita visualmente a 4 tarjetas por fila */
     margin: 0 auto;
-    gap: 40px;
+    gap: 90px;
     justify-items: center;
     padding: 60px 20px;
     box-sizing: border-box;
@@ -96,10 +96,32 @@ header {
     color: white;
     display: inline-block;
     background-color: currentColor;
-    mask: url('assets/twitch.svg') no-repeat center;
+    mask-repeat: no-repeat;
+    mask-position: center;
     mask-size: contain;
-    -webkit-mask: url('assets/twitch.svg') no-repeat center;
+    -webkit-mask-repeat: no-repeat;
+    -webkit-mask-position: center;
     -webkit-mask-size: contain;
+}
+
+.icon-x {
+    mask-image: url('assets/icon/x.svg');
+    -webkit-mask-image: url('assets/icon/x.svg');
+}
+
+.icon-instagram {
+    mask-image: url('assets/icon/instagram.svg');
+    -webkit-mask-image: url('assets/icon/instagram.svg');
+}
+
+.icon-kickalt {
+    mask-image: url('assets/icon/kick-alt.svg');
+    -webkit-mask-image: url('assets/icon/kick-alt.svg');
+}
+
+.icon-twitch {
+    mask-image: url('assets/icon/twitch.svg');
+    -webkit-mask-image: url('assets/icon/twitch.svg');
 }
 
 
