@@ -90,6 +90,7 @@ header {
 .social-box a {
     color: white;
     text-decoration: none;
+    padding: 10px 20px;
 }
 
 .icon {
@@ -124,17 +125,4 @@ header {
 .icon-twitch {
     mask-image: url('assets/icon/twitch.svg');
     -webkit-mask-image: url('assets/icon/twitch.svg');
-}
-
-
-.social-box.one-icon {
-    padding: 10px;
-}
-
-.social-box.two-icons {
-    padding: 10px 20px;
-}
-
-.social-box.three-icons {
-    padding: 10px 30px;
 }
