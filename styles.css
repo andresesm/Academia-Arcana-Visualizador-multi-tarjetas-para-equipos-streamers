@@ -184,6 +184,8 @@ header {
 .attribution {
   text-align: center;
   font-size: 0.55rem;
+  color: white;
+  padding-bottom: 60px;
 }
 
 .svg-footer {
