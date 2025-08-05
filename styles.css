@@ -178,3 +178,23 @@ header {
     mask-image: url('assets/icon/twitch.svg');
     -webkit-mask-image: url('assets/icon/twitch.svg');
 }
+
+/*Footer*/
+
+.attribution {
+  text-align: center;
+  font-size: 0.55rem;
+}
+
+.svg-footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 2rem;
+  margin-bottom: 1rem;  
+}
+
+.svg-center {
+  width: 50px;
+  height: 50px;
+}
