@@ -57,22 +57,13 @@ header {
     grid-column: 1 / -1; /*salto de linea*/
     display: inline-block;
     /*Gradiente de color dorada inicio*/
-background: linear-gradient(to bottom,
-        #fff8dc 0%,
-        #f8e9a1 10%,
-        #e6c76c 30%,
-        #d4af37 50%,
-        #b8860b 70%,
-        #fff8dc 85%,
-        #f8e9a1 100%);
-    
+    color: rgb(218,165,32); /*if no support for background-clip*/
+    background: -webkit-linear-gradient(transparent, transparent), -webkit-linear-gradient(top, rgba(218,165,32,1) 0%, rgba(213,173,109,1) 26%, rgba(226,186,120,1) 35%, rgba(163,126,67,1) 45%, rgba(212,175,55,1) 61%, rgba(213,173,109,1) 100%);
+    background: -o-linear-gradient(transparent, transparent);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-color: #d4af37; /* fallback visible en Firefox */
-    text-shadow:
-        1px 1px 2px #000,
-        0 0 5px rgba(255, 215, 0, 0.5),
-        0 0 10px rgba(255, 215, 0, 0.3);
+    text-shadow: 0px 0px 20px rgba(212,175,55,.5);
+    /*Gradiente de color dorada fin*/ 
 }
 
 /*salto de linea*/
