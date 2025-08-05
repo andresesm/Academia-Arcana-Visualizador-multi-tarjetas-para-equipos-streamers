@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-image: url('assets/fondo-pc.jpg');
+    background-image: url('assets/bg.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -10,7 +10,7 @@ body {
 
 @media (max-width: 768px) {
     body {
-        background-image: url('assets/fondo-movil.jpg');
+        background-image: url('assets/bg.jpg');
     }
 }
 
