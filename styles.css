@@ -52,19 +52,27 @@ header {
 .hp {
     font-family: 'Manufacturing Consent', Arial, sans-serif;
     font-size: 4.5rem;
-    margin: 10px auto /*20px auto 20px;*/
+    margin: 20px auto 20px;
     text-align: center;
     grid-column: 1 / -1; /*salto de linea*/
+    display: inline-block;
     /*Gradiente de color dorada inicio*/
-    color: transparent;
-    background: linear-gradient(to bottom, #f9f6ef 0%, #f8e9a1 10%, #e6c76c 30%, #d4af37 50%, #b8860b 70%, #fff8dc 85%, #f8e9a1 100%);
+background: linear-gradient(to bottom,
+        #fff8dc 0%,
+        #f8e9a1 10%,
+        #e6c76c 30%,
+        #d4af37 50%,
+        #b8860b 70%,
+        #fff8dc 85%,
+        #f8e9a1 100%);
+    
     -webkit-background-clip: text;
-    background-clip: text;
     -webkit-text-fill-color: transparent;
+color: #d4af37; /* fallback visible en Firefox */
     text-shadow:
-        1px 1px 2px #000,                    /* sombra de borde negro */
-        0 0 5px rgba(255, 215, 0, 0.5),      /* brillo dorado suave */
-        0 0 10px rgba(255, 215, 0, 0.3);     /* resplandor más amplio */
+        1px 1px 2px #000,
+        0 0 5px rgba(255, 215, 0, 0.5),
+        0 0 10px rgba(255, 215, 0, 0.3);
 }
 
 /*salto de linea*/
