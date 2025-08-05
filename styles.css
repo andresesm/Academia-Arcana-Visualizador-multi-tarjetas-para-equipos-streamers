@@ -59,15 +59,26 @@ header {
     display: block;
     width: 100%;
     /* texto centrado*/
-    /* Color dorado base */
-    color: #d4af37;
+    /* Gradiente dorado */
+    background: linear-gradient(
+        to bottom,
+        #fff8dc 0%,
+        #f8e9a1 15%,
+        #e6c76c 30%,
+        #d4af37 45%,
+        #b8860b 60%,
+        #fff8dc 75%,
+        #f8e9a1 100%
+    );
 
-    /* Sombra simulando luz y volumen */
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    /* Efecto de brillo/destello */
     text-shadow:
-        1px 1px 2px #000000,               /* sombra base para volumen */
-        2px 2px 4px #a67c00,               /* sombra cálida */
-        0 0 5px rgba(212, 175, 55, 0.7),   /* brillo dorado */
-        0 0 15px rgba(255, 215, 0, 0.5);   /* resplandor extendido */
+        1px 1px 1px rgba(0, 0, 0, 0.8),
+        0 0 5px rgba(255, 215, 0, 0.4),
+        0 0 10px rgba(255, 215, 0, 0.2);
 }
 
 /*salto de linea*/
