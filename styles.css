@@ -50,12 +50,36 @@ header {
     justify-content: center;
     width: 100%;
     max-width: 325px;
-    background: white;
     border-radius: 15px;
     box-shadow: 0 4px 15px rgba(0,0,0,0.2);
     padding: 50px 20px;
     box-sizing: border-box;
     text-align: center;
+    /*nuevos agregados para separación x casa automatico*/
+    background: white; 
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+/* Gryffindor */
+.profile-card:has(.social-box.gry) {
+    background-image: url('assets/bg.jpg');
+}
+
+/* Slytherin */
+.profile-card:has(.social-box.sly) {
+    background-image: url('assets/pcbg2.png');
+}
+
+/* Ravenclaw */
+.profile-card:has(.social-box.rav) {
+    background-image: url('assets/pcbg3.png');
+}
+
+/* Hufflepuff */
+.profile-card:has(.social-box.huf) {
+    background-image: url('assets/pcbg4.png');
 }
 
 .avatar {
