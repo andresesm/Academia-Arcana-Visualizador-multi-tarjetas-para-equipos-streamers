@@ -80,11 +80,26 @@ header {
     bottom: -20px;
     left: 50%;
     transform: translateX(-50%);
-    background-color: #f47d31;
     border-radius: 20px;
     padding: 10px 20px;
     display: flex;
     gap: 10px;
+}
+
+.social-box.gry {
+    background-color: #4d0506;
+}
+
+.social-box.sly {
+    background-color: #265920;
+}
+
+.social-box.rav {
+    background-color: #0c304a;
+}
+
+.social-box.huf {
+    background-color: #f3de0b;
 }
 
 .social-box a {
