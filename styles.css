@@ -52,17 +52,26 @@ header {
 .hp {
     font-family: 'Manufacturing Consent', Arial, sans-serif;
     font-size: 4.5rem;
-    margin: 20px auto 20px;
-    text-align: left;
+    margin: 0px /*20px auto 20px;*/
+    text-align: center;
     grid-column: 1 / -1; /*salto de linea*/
     /*Gradiente de color dorada inicio*/
-    color: rgb(218,165,32); /*if no support for background-clip*/
-    background: -webkit-linear-gradient(transparent, transparent), -webkit-linear-gradient(top, rgba(218,165,32,1) 0%, rgba(213,173,109,1) 26%, rgba(226,186,120,1) 35%, rgba(163,126,67,1) 45%, rgba(212,175,55,1) 61%, rgba(213,173,109,1) 100%);
-    background: -o-linear-gradient(transparent, transparent);
+    color: transparent;
+    background: linear-gradient(to bottom,
+        #f9f6ef 0%,
+        #f8e9a1 10%,
+        #e6c76c 30%,
+        #d4af37 50%,
+        #b8860b 70%,
+        #fff8dc 85%,
+        #f8e9a1 100%);
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
-    text-shadow: 0px 0px 20px rgba(212,175,55,.5);
-    /*Gradiente de color dorada fin*/
+    text-shadow:
+        1px 1px 2px #000,                    /* sombra de borde negro */
+        0 0 5px rgba(255, 215, 0, 0.5),      /* brillo dorado suave */
+        0 0 10px rgba(255, 215, 0, 0.3);     /* resplandor más amplio */
 }
 
 /*salto de linea*/
