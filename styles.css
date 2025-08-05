@@ -64,22 +64,27 @@ header {
 
 /* Gryffindor */
 .profile-card:has(.social-box.gry) {
-    background-image: url('assets/bg.jpg');
+    background-image: url('assets/bg/GRY.png');
 }
 
 /* Slytherin */
 .profile-card:has(.social-box.sly) {
-    background-image: url('assets/pcbg2.png');
+    background-image: url('assets/bg/SLY.png');
 }
 
 /* Ravenclaw */
 .profile-card:has(.social-box.rav) {
-    background-image: url('assets/pcbg3.png');
+    background-image: url('assets/bg/RAV.png');
 }
 
 /* Hufflepuff */
 .profile-card:has(.social-box.huf) {
-    background-image: url('assets/pcbg4.png');
+    background-image: url('assets/bg/HUF.png');
+}
+
+/* Hufflepuff */
+.profile-card:has(.social-box.hog) {
+    background-image: url('assets/bg/HOG.png');
 }
 
 .avatar {
@@ -124,6 +129,10 @@ header {
 
 .social-box.huf {
     background-color: #f3de0b;
+}
+
+.social-box.hog {
+    background-color: ##474787;
 }
 
 .social-box a {
