@@ -115,7 +115,7 @@ header {
 .card-container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-    max-width: 1600px; /* Esto limita visualmente a 4 tarjetas por fila */
+    max-width: 1300px; /* Esto limita visualmente a 4 tarjetas por fila */
     margin: 0 auto;
     gap: 90px;
     justify-items: center;
