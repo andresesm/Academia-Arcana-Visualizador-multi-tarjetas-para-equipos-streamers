@@ -132,7 +132,7 @@ header {
     /* texto centrado*/
     display: block;
     width: 100%;
-    stroke: 1px;
+    -webkit-text-stroke: 1px black;
     /* texto centrado*/
     /*Gradiente de color dorada inicio*/
     color: rgb(218,165,32); /*mozilla base*/
