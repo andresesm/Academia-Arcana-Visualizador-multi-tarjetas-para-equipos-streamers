@@ -203,7 +203,7 @@ header {
 }
 
 /* Variable Marca maldita */
-.profile-card:has(.social-box.DMV) {
+.profile-card:has(.social-box.dmv) {
     background-image: url('assets/bg/DMV.png');
 }
 
