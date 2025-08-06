@@ -132,7 +132,6 @@ header {
     /* texto centrado*/
     display: block;
     width: 100%;
-    -webkit-text-stroke: 1px black;
     /* texto centrado*/
     /*Gradiente de color dorada inicio*/
     color: rgb(218,165,32); /*mozilla base*/
@@ -140,7 +139,7 @@ header {
     background: -o-linear-gradient(transparent, transparent);
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
-    text-shadow: 0px 0px 10px rgba(212,175,55,.5);
+    /*text-shadow: 0px 0px 10px rgba(212,175,55,.5);*/
     /*Gradiente de color dorada fin*/ 
 }
 
