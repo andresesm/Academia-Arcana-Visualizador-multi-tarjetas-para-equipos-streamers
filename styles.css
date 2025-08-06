@@ -80,6 +80,12 @@ header {
   margin-left: 40px; /* para evitar que lo que esté a la izquierda se superponga */
 }
 
+.count {
+    font-family: 'Manufacturing Consent', Arial, sans-serif;
+    font-size: 2rem;
+    color: #000000;
+}
+
 /* offset badge */
 .house-counter .badge {
   position: absolute;
