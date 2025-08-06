@@ -197,6 +197,16 @@ header {
     background-image: url('assets/bg/HOG.png');
 }
 
+/* Variable Sorting Hat */
+.profile-card:has(.social-box.sor) {
+    background-image: url('assets/bg/SOR.png');
+}
+
+/* Variable Marca maldita */
+.profile-card:has(.social-box.DMV) {
+    background-image: url('assets/bg/DMV.png');
+}
+
 .avatar {
     width: 100px;
     height: 100px;
@@ -249,6 +259,16 @@ header {
 /* Variable Hogwarts */
 .social-box.hog {
     background-color: #474787;
+}
+
+/* Variable Sorting Hat */
+.social-box.sor {
+    background-color: #363029;
+}
+
+/* Variable Marca maldita */
+.social-box.dmv {
+    background-color: #badc58;
 }
 
 /* Iconos social box*/
