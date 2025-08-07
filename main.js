@@ -13,81 +13,75 @@
   });
 
 // Pasos - Script //
-const DISTANCE_BETWEEN_STEPS = 50 // in px
-const TIME_BEFORE_REMOVE_STEP = 700 // in milliseconds
-const MINIMUM_TIME_BETWEEN_STEPS = 30 // in milliseconds
+const DISTANCE_BETWEEN_STEPS = 50; // in px
+const TIME_BEFORE_REMOVE_STEP = 700; // in milliseconds
+const MINIMUM_TIME_BEWEEN_STEPS = 30; // in milliseconds
 
-let x
-let y
-let stepSide
-let wait = false
+let lastX, lastY;
+let stepSide = 'left';
+let waiting = false;
 
 onmousemove = (event) => {
-    if (wait) return
+  if (waiting) return;
 
-    if (x === undefined && y === undefined) {
-        x = event.x
-        y = event.y
-    }
+  const currentX = event.pageX;
+  const currentY = event.pageY;
 
-    const distance = calculateDistance(x, y, event.x, event.y)
+  if (lastX === undefined || lastY === undefined) {
+    lastX = currentX;
+    lastY = currentY;
+    return;
+  }
 
-    if (distance < DISTANCE_BETWEEN_STEPS) return
+  const distance = calculateDistance(lastX, lastY, currentX, currentY);
+  if (distance < DISTANCE_BETWEEN_STEPS) return;
 
-    putStep(x, y, event.x, event.y)
+  putStep(lastX, lastY, currentX, currentY);
 
-    x = event.x
-    y = event.y
+  lastX = currentX;
+  lastY = currentY;
 
-    waitBetweenSteps()
+  delayStepCreation();
+};
+
+function calculateDistance(x1, y1, x2, y2) {
+  return Math.hypot(x2 - x1, y2 - y1);
 }
 
-function calculateDistance(xA, yA, xB, yB) {
-    return Math.sqrt(Math.pow(xB - xA, 2) + Math.pow(yB - yA, 2))
+function putStep(x1, y1, x2, y2) {
+  const angle = Math.atan2(y2 - y1, x2 - x1) * (180 / Math.PI) + 90;
+  const step = createStepElement();
+
+  step.style.left = `${x1}px`;
+  step.style.top = `${y1}px`;
+  step.style.transform = `rotate(${angle}deg)`;
+
+  step.classList.add('present', 'steps');
+
+  removeStepAfter(step);
 }
 
-function putStep(xA, yA, xB, yB) {
-    const angle = calculateAngle(xA, yA, xB, yB)
-    const step = createStepOnDOM()
+function createStepElement() {
+  const step = document.createElement('img');
+  step.src = (stepSide === 'left') 
+    ? './assets/effects/wleft.png' 
+    : './assets/effects/wright.png';
 
-    removeStepAfterTimer(step)
-
-    step.classList.add('present')
-    step.classList.add('steps')
-
-    step.style.left = `${xA}px`
-    step.style.top = `${yA}px`
-    step.style.transform = `rotate(${angle}deg)`
+  stepSide = (stepSide === 'left') ? 'right' : 'left';
+  document.body.appendChild(step);
+  return step;
 }
 
-function calculateAngle(xA, yA, xB, yB) {
-    return Math.atan2(yB - yA, xB - xA) * 180 / Math.PI + 90;
+function removeStepAfter(step) {
+  setTimeout(() => {
+    step.classList.remove('present');
+    step.addEventListener('transitionend', () => step.remove());
+  }, TIME_BEFORE_REMOVE_STEP);
 }
 
-function createStepOnDOM() {
-    const step = document.createElement('img')
-
-    step.src = (stepSide === 'left') ? './assets/effects/wleft.png' : './assets/effects/wright.png'
-    stepSide = (stepSide === 'left') ? 'right' : 'left'
-
-    document.body.append(step)
-
-    return step
-}
-
-function removeStepAfterTimer(step) {
-    setTimeout(() => {
-        step.classList.remove('present')
-        step.addEventListener("transitionend", () => {
-            step.remove();
-        })
-    }, TIME_BEFORE_REMOVE_STEP)
-}
-
-function waitBetweenSteps() {
-    wait = true
-
-    setTimeout(() => {
-        wait = false
-    }, MINIMUM_TIME_BETWEEN_STEPS);
+function delayStepCreation() {
+  waiting = true;
+  setTimeout(() => {
+    waiting = false;
+  }, MINIMUM_TIME_BEWEEN_STEPS);
 }
