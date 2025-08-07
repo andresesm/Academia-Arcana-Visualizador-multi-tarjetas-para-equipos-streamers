@@ -1,5 +1,5 @@
   // Contador de casas
-  const houses = ['gry', 'sly', 'huf', 'rav', 'hog'];
+  const houses = ['gry', 'sly', 'huf', 'rav', 'hog', 'sor', 'dmv'];
 
   houses.forEach(house => {
     // Cuenta cuántas social-box hay con esa clase
