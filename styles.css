@@ -367,7 +367,8 @@ padding-bottom: 60px; /* Comentar completo si se está usando la atribución en 
 }
 
 .footer-table {
-  display: flex;
+  padding-top: 30px;
+    display: flex;
   justify-content: space-between;
   align-items: center;
   width: 80%;
@@ -375,16 +376,22 @@ padding-bottom: 60px; /* Comentar completo si se está usando la atribución en 
   gap: 2%;
 }
 
-.footer-logo {
-  width: 30%;       /* relativo al .footer-table */
-  max-width: 150px; /* asegura límite superior */
+.footer-tk {
+  max-width: 250px; /* asegura límite superior */
   height: auto;
+  align-content: right;
 }
 
 .footer-x img {
-  width: 10%;
-  max-width: 40px;
+/*  width: 10%;
+  max-width: 40px;*/
   height: auto;
   opacity: 0.8;
+}
+
+.footer-bb {
+  max-width: 250px; /* asegura límite superior */
+  height: auto;
+  align-content: left;
 }
 
