@@ -67,7 +67,7 @@ function calculateAngle(xA, yA, xB, yB) {
 function createStepOnDOM() {
     const step = document.createElement('img')
 
-    step.src = (stepSide === 'left') ? './assets/effects/left.png' : './assets/effects/right.png'
+    step.src = (stepSide === 'left') ? './assets/effects/wleft.png' : './assets/effects/wright.png'
     stepSide = (stepSide === 'left') ? 'right' : 'left'
 
     document.body.append(step)
