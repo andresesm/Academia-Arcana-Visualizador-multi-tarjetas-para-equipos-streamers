@@ -9,12 +9,7 @@ body {
     background-color: #000000;
 }
 
-.blurred-background-pc {
-  background-image: url('assets/bgmm.webp');
-  background-size: cover; 
-  filter: blur(5px); 
-}
-
+/*INICIO CONTENEDOR MOVILES*/
 @media (max-width: 768px) {
     body {
         background-image: url('assets/bgmmcel.webp');
@@ -23,16 +18,12 @@ body {
         background-color: #000000;
     }
 
-.blurred-background-cel {
-  background-image: url('assets/bgmmcel.webp');
-  background-size: cover; 
-  filter: blur(5px); 
-}
-
-.housescounter-container {
+    .housescounter-container {
 gap: 70px;
 }
 }
+/* FIN CONTENEDOR MOVILES*/
+
 
 /*Header*/
 header {
