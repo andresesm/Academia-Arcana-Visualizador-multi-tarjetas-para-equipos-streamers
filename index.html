@@ -256,20 +256,6 @@
     <!--<div class="attribution">
         Hecha por <strong>Billy Billete 空</strong>
     </div>-->
-    <script>
-  // Contador de casas
-  const houses = ['gry', 'sly', 'huf', 'rav', 'hog'];
-
-  houses.forEach(house => {
-    // Cuenta cuántas social-box hay con esa clase
-    const count = document.querySelectorAll(`.social-box.${house}`).length;
-
-    // Busca el span dentro del contador correspondiente y coloca el número
-    const counter = document.querySelector(`.house-counter.${house} .count`);
-    if (counter) {
-      counter.textContent = count;
-    }
-  });
-</script>
+    <script src="./main.js"></script>
 </body>
 </html>

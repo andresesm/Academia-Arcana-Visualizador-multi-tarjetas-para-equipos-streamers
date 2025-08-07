@@ -9,6 +9,20 @@ body {
     background-color: #000000;
 }
 
+/*Estilo pasos*/
+    .steps {
+        position: absolute;
+        width: 10px;
+        height: auto;
+        opacity: 0;
+        transition: opacity 0.7s;
+}
+
+    .present {
+        opacity: 1;
+}
+/*Fin pasos*/
+
 /*INICIO CONTENEDOR MOVILES*/
 @media (max-width: 768px) {
     body {
