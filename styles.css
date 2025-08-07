@@ -57,6 +57,18 @@ header {
 }
 
 /* Sub header contadores*/
+/*GRID CONTADOR HOGWARTS Y SORTING*/
+.generalcounter-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    max-width: 900px;
+    margin: 0 auto;
+    justify-items: center;
+    padding: 60px 20px;
+    box-sizing: border-box;
+}
+
+/*GRID CONTADORES DE CASAS*/
 .housescounter-container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
@@ -68,16 +80,7 @@ header {
     box-sizing: border-box;
 }
 
-.generalcounter-container {
-    display: grid;
-    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
-    max-width: 900px;
-    margin: 0 auto;
-    justify-items: center;
-    padding: 60px 20px;
-    box-sizing: border-box;
-}
-
+/*ELEMENTO CONTADOR DE CASA, GENERAL PARA TODOS*/
 .house-counter {
   position: relative;
   display: inline-flex;
@@ -95,13 +98,14 @@ header {
   margin-left: 40px; /* para evitar que lo que esté a la izquierda se superponga */
 }
 
+/*CONTADOR LETRA*/
 .count {
     font-family: 'Manufacturing Consent', Arial, sans-serif;
     font-size: 2rem;
     color: #000000;
 }
 
-/* offset badge */
+/*EMBLEMA OFFSET*/
 .house-counter .badge {
   position: absolute;
   left: -40px;
@@ -113,7 +117,7 @@ header {
   z-index: 2;
 }
 
-/* txt */
+/* TXT */
 .house-counter .count {
   display: inline-block;
   z-index: 1;
