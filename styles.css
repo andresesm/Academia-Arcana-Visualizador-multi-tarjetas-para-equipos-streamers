@@ -2,7 +2,6 @@ body {
     margin: 0;
     font-family: Arial, sans-serif;
     background-image: url('assets/bgmm.webp');
-    filter: blur(5px);
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -17,6 +16,14 @@ body {
         background-position: center;
         background-color: #000000;
     }
+
+.blurred-background {
+  background-image: url('assets/bgmm.webp');
+  background-image: url('assets/bgmmcel.webp');
+  background-size: cover; 
+  filter: blur(5px); 
+}
+
 .housescounter-container {
 gap: 70px;
 }
