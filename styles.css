@@ -346,7 +346,7 @@ header {
 
 /*Footer*/
 
-/*actualmente no usado
+
 .attribution {
   text-align: center;
   font-size: 0.55rem;
@@ -354,6 +354,7 @@ header {
   padding-bottom: 60px;
 }
 
+/*actualmente no usado
 .svg-footer {
   display: flex;
   justify-content: center;
