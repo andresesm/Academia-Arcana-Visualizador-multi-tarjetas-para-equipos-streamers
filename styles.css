@@ -17,8 +17,13 @@ body {
         background-color: #000000;
     }
 
-.blurred-background {
+.blurred-background-pc {
   background-image: url('assets/bgmm.webp');
+  background-size: cover; 
+  filter: blur(5px); 
+}
+
+.blurred-background-cel {
   background-image: url('assets/bgmmcel.webp');
   background-size: cover; 
   filter: blur(5px); 
