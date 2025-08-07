@@ -372,12 +372,12 @@ padding-bottom: 60px; /* Comentar completo si se está usando la atribución en 
   justify-content: space-between;
   align-items: center;
   width: 80%;
-  max-width: 600px;
+  max-width: 350px;
   gap: 2%;
 }
 
 .footer-tk {
-  max-width: 250px; /* asegura límite superior */
+  max-width: 100px; /* asegura límite superior */
   height: auto;
   align-content: right;
 }
@@ -390,7 +390,7 @@ padding-bottom: 60px; /* Comentar completo si se está usando la atribución en 
 }
 
 .footer-bb {
-  max-width: 250px; /* asegura límite superior */
+  max-width: 150px; /* asegura límite superior */
   height: auto;
   align-content: left;
 }
