@@ -62,8 +62,6 @@ header {
 .header-nico {
   max-width: 850px; /* asegura límite superior */
   height: auto;
-  align-content: center;
-  box-sizing: border-box;
 }
 
 /* Sub header contadores*/
