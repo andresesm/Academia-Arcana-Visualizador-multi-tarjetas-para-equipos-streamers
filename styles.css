@@ -59,9 +59,15 @@ header {
     height: auto;
 }
 
-.header-nico {
-  max-width: 850px; /* asegura límite superior */
-  height: auto;
+.logoone {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.logoone img {
+    max-width: 600px;
+    height: auto;
 }
 
 /* Sub header contadores*/
