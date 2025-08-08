@@ -59,6 +59,11 @@ header {
     height: auto;
 }
 
+.header-nico {
+  max-width: 850px; /* asegura límite superior */
+  height: auto;
+}
+
 /* Sub header contadores*/
 /*GRID CONTADOR HOGWARTS Y SORTING*/
 .generalcounter-container {
