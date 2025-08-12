@@ -131,13 +131,13 @@ header {
   z-index: 2;
 }
 
-/* TXT */
+/* TXT de contadores*/
 .house-counter .count {
   display: inline-block;
   z-index: 1;
 }
 
-/* Personalización de fondo x casa, no creo que se use */
+/* Personalización de fondo x casa, no creo que se use, faltan categorías */
 .house-counter.gry { background-color: white; }
 .house-counter.sly { background-color: white; }
 .house-counter.rav { background-color: white; }
@@ -148,7 +148,7 @@ header {
 .card-container {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-    max-width: 1300px; /* Esto limita visualmente a 4 tarjetas por fila */
+    max-width: 1300px; /* Esto limita visualmente a max 4 tarjetas por fila, caben hasta 6 si no se limita en 2K, creo */
     margin: 0 auto;
     gap: 90px;
     justify-items: center;
@@ -245,6 +245,7 @@ header {
     background-image: url('assets/bg/DMV.png');
 }
 
+/* Foto de perfil */
 .avatar {
     width: 100px;
     height: 100px;
@@ -334,38 +335,41 @@ header {
     -webkit-mask-size: contain;
 }
 
-/* Especificacion de iconos x class*/
+/* Ubicaciones de los SVG de redes sociales*/
+/* Twitter */
 .icon-x {
     mask-image: url('assets/icon/x.svg');
     -webkit-mask-image: url('assets/icon/x.svg');
 }
 
+/* Kick verde */
 .icon-kick {
     mask-image: url('assets/icon/kick.svg');
     -webkit-mask-image: url('assets/icon/kick.svg');
 }
 
+/* Twitter */
 .icon-kickalt {
     mask-image: url('assets/icon/kick-alt.svg');
     -webkit-mask-image: url('assets/icon/kick-alt.svg');
 }
 
+/* Twitch */
 .icon-twitch {
     mask-image: url('assets/icon/twitch.svg');
     -webkit-mask-image: url('assets/icon/twitch.svg');
 }
 
-/*Footer*/
-
-
-.attribution {
-  text-align: center;
-  font-size: 0.55rem;
-  color: white;
-  padding-bottom: 60px;
+/* Instagram */
+.icon-instagram {
+    mask-image: url('assets/icon/instagram.svg');
+    -webkit-mask-image: url('assets/icon/instagram.svg');
 }
 
-/*actualmente no usado
+
+
+/*Footer*/
+/*Creditos de Footer solo con SVG, no usado actualmente
 .svg-footer {
   display: flex;
   justify-content: center;
@@ -385,7 +389,7 @@ padding-bottom: 60px; /* Comentar completo si se está usando la atribución en 
   display: flex;
   justify-content: center;
   padding: 20px 0;
-  background: transparent; /* o tu color de fondo */
+  background: transparent;
 }
 
 .footer-table {
@@ -398,12 +402,14 @@ padding-bottom: 60px; /* Comentar completo si se está usando la atribución en 
   gap: 2%;
 }
 
+/*imagen creditos izquierda*/
 .footer-tk {
-  max-width: 100px; /* asegura límite superior */
+  max-width: 100px;
   height: auto;
   align-content: right;
 }
 
+/*imagen del separador footer*/
 .footer-x img {
 /*  width: 10%;
   max-width: 40px;*/
@@ -411,9 +417,17 @@ padding-bottom: 60px; /* Comentar completo si se está usando la atribución en 
   opacity: 0.8;
 }
 
+/*Imagen creditos derecha*/
 .footer-bb {
-  max-width: 150px; /* asegura límite superior */
+  max-width: 150px;
   height: auto;
   align-content: left;
 }
 
+/*Texto footer de acreditación*/
+.attribution {
+  text-align: center;
+  font-size: 0.55rem;
+  color: white;
+  padding-bottom: 60px;
+}

@@ -73,6 +73,9 @@ Simplemente tienes que añadir los términos en el ***main.js***.
 8. **Quiero cambiar los emblemas de los contadores, como lo hago?**  
 Modifica en el ***style.css*** la fuente.
 
+9. ***Quiero hacer que los pasos del merodeador sean negros en vez de blancos***  
+Está el asset, solo debes modificar en el ***main.js*** las imagenes de referencia de *wleft.png y wright.png* a ***Left.png y Right.png***
+
 ## Usabilidad
 
 Si bien es un proyecto libre se apreciaría la mención en caso de ser usado.
