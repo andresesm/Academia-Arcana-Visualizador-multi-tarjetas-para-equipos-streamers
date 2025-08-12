@@ -57,7 +57,7 @@ Lo más probable es que no, este proeycto se hizo con un fin y eso ya se ha cump
 Hay un error en tus personalizaciones, vuelve una versión atrás o intenta re hacer la publicación
 
 3. **Se rompió el diseñode columnas cuando elimine una categoría**  
-Fijate que no hayas dejado un ***<Main>*** sin cerrar o abrir
+Fijate que no hayas dejado un ***'<Main>'*** sin cerrar o abrir
 
 4. **Cuando quiero hacer mi propia categorización que debo hacer?**  
 Revisa en el ***style.css*** y copiar basándote en las otras categorizaciones como ejemplo, también puedes usar los mismos nombres de categorización pero cambiar los colores de las casas y los fondos simplemente. No olvides modificar en el ***index.html*** en caso de que haga falta
