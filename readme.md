@@ -2,15 +2,15 @@
 
 >***Este proyecto es bastante probable que jamás se vuelva a actualizar, pero no debería tener problemas importantes en el tiempo***
 
-Página que permite tener visualización de múltiples perfiels con avatar y redes sociales
+Página que permite tener visualización de múltiples perfiles con avatar y redes sociales
 
 ## Descripción
 
-Sitio web básico, de facil impementación y super compatible con Github Pages, que permite tener visualización básica de multiples perfiles al mismo tiempo, con una leve separación de categorías entre ellas.
+Sitio web básico, de fácil implementación y super compatible con Github Pages, que permite tener visualización básica de múltiples perfiles al mismo tiempo, con una leve separación de categorías entre ellas.
 
-El proyecto se construyó para una serie de streamers (Academia Arcana 3, de TK Studios) la cual está ambientada en un mundo mágico (Hogwarts/Harry Potter), por lo que el proyecto entero está tematizado, pero no debería ser muy complicado adaptar a otras realidades según su necesidad.
+El proyecto se construyó para una serie de streamers [(Academia Arcana 3, de TK Studios)](https://x.com/StudiosTK_/status/1952811080184430978) la cual está ambientada en un mundo mágico ***(Hogwarts/Harry Potter)***, por lo que el proyecto entero está tematizado, pero no debería ser muy complicado adaptar a otras realidades según su necesidad.
 
-El proyecto está construido en base a mis conocimientos y ChatGPT para todo lo que no supiera o me diese errores y no supiera que los ocasionara. El proyecto está *MUY MAL CONSTUIDO*, todo está hecho para que funcione en la estructura actual y es bastante probable que cualquier modificación rompa todo. El proyecto también está lleno de parámetros no usados, comentarios tontos y secciones enteras desechadas.
+El proyecto está construido en base a mis conocimientos y ChatGPT para todo lo que no supiera o me diese errores. El proyecto está ***MUY MAL CONSTRUIDO***, todo está hecho para que funcione en la estructura actual y es bastante probable que cualquier modificación rompa todo. El proyecto también está lleno de parámetros no usados, comentarios tontos y secciones enteras desechadas.
 
 ## Funciones destacables 
 
@@ -20,12 +20,11 @@ El proyecto está construido en base a mis conocimientos y ChatGPT para todo lo 
 * Diseño responsivo: Distinto fondo de pantalla según el tamaño de pantalla del dispositivo
 * Tipo de letra personalizado para títulos de categorías con efecto "oro"
 * Las tarjetas poseen un pequeño recuadro con ***redes sociales***, el cual es personalizable a través de la categorización del 'social-box', categorías disponibles, con colores personalizados y fondo de tarjeta: Gry, Sly, Rav, Huf, Hog, Adm, Dmv, Sor  
-* Las tarjetas contienen: avatar, nombre, descripción corta y redes sociales. Se pueden contener en el bloque hasta 3 redes sociales simultaneamente (no probé con más), y se adapta el tamaño automáticamente cuando hay por ejemplo 1.
-
+* Las tarjetas contienen: avatar, nombre, descripción corta y redes sociales. Se pueden contener en el bloque hasta 3 redes sociales simultáneamente (no probé con más), y se adapta el tamaño automáticamente cuando hay por ejemplo 1.
 
 ## Categorización con colores y fondos personalizados creados
 
-Si bien ya hay categorías definidas es posible crear más simplemente copiando el codigo en el ***style.css*** y creandole su propia categorización, color y fondo
+Si bien ya hay categorías definidas es posible crear más según sea necesario
 
 1. Gry - Gryffindor - ![#a01f23](https://placehold.co/15x15/a01f23/a01f23.png) `#a01f23`
 2. Sly - Slytherin - ![#265920](https://placehold.co/15x15/265920/265920.png) `#265920`
@@ -51,28 +50,32 @@ Si bien ya hay categorías definidas es posible crear más simplemente copiando 
 ## FAQ y ayudas
 
 1. **Tengo XXXX problema, me ayudas?**  
-Lo más probable es que no, este proeycto se hizo con un fin y eso ya se ha cumplido, solo lo dejo dispoible porque en su momento a mi me hizo falta y como no existía, lo cree.
+Lo más probable es que no, este proyecto se hizo con un fin y eso ya se ha cumplido, solo lo dejo disponible porque en su momento a mi me hizo falta y como no existía, lo cree.
 
 2. **Cuando trato de desplegar el proyecto Github me da error**  
-Hay un error en tus personalizaciones, vuelve una versión atrás o intenta re hacer la publicación
+Hay un error en tus personalizaciones, vuelve una versión atrás o intenta re hacer la publicación.
 
-3. **Se rompió el diseñode columnas cuando elimine una categoría**  
-Fijate que no hayas dejado un ***'< Main >'*** sin cerrar o abrir
+3. **Se rompió el diseño de columnas cuando elimine una categoría**  
+Fíjate que no hayas dejado un ***'< Main >'*** sin cerrar o abrir.
 
-4. **Cuando quiero hacer mi propia categorización que debo hacer?**  
-Revisa en el ***style.css*** y copiar basándote en las otras categorizaciones como ejemplo, también puedes usar los mismos nombres de categorización pero cambiar los colores de las casas y los fondos simplemente. No olvides modificar en el ***index.html*** en caso de que haga falta
+4. **Quiero mi propia categoría, que debo hacer?**  
+Revisa en el ***style.css*** y copia un estilo actual y modificalo a tu gusto basándote en las otras categorizaciones funcionales como ejemplo, también puedes usar los mismos nombres de categorización pero cambiar los colores de las casas y los fondos para no complicarte la vida. No olvides modificar en el ***index.html*** en caso de que hagas nuevas cateogrías.
 
 5. **No voy a usar el contador de casas ni quiero usar el trazo de pasos con el mouse**  
-Simplemente elimina el ***"<script src="./main.js"></script>"*** al final del ***index.html***
+Simplemente elimina el ***<script src="./main.js"></script>*** al final del ***index.html***.
 
 6. **Y si solo quiero usar una de esas dos funciones?**  
-Entra en el ***main.js*** y elimina la que ya no quieras usar (están nombradas)
+Entra en el ***main.js*** y elimina la que ya no quieras usar (están nombradas).
 
 7. **Cambié los nombres de las categorizaciones y ahora no se cuentan las casas**  
-Simplemente tienes que añadir los términos en el ***main.js***
+Simplemente tienes que añadir los términos en el ***main.js***.
 
 8. **Quiero cambiar los emblemas de los contadores, como lo hago?**  
-Modifica en el ***style.css***
+Modifica en el ***style.css*** la fuente.
+
+## Usabilidad
+
+Si bien es un proyecto libre se apreciaría la mención en caso de ser usado.
 
 ## Autor
 
