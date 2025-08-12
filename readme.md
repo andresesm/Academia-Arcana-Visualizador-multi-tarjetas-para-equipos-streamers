@@ -1,8 +1,8 @@
 # Visualizador multi tarjetas para equipos / streamers
 
-Página que permite tener visualización de múltiples perfiels con avatar y redes sociales
+>***Este proyecto es bastante probable que jamás se vuelva a actualizar, pero no debería tener problemas importantes en el tiempo***
 
-***Este proyecto es bastante probable que jamás se vuelva a actualizar, pero no debería tener problemas importantes en el tiempo***
+Página que permite tener visualización de múltiples perfiels con avatar y redes sociales
 
 ## Descripción
 
@@ -50,28 +50,28 @@ Si bien ya hay categorías definidas es posible crear más simplemente copiando 
 
 ## FAQ y ayudas
 
-1. **Tengo XXXX problema, me ayudas?**
+1. **Tengo XXXX problema, me ayudas?**  
 Lo más probable es que no, este proeycto se hizo con un fin y eso ya se ha cumplido, solo lo dejo dispoible porque en su momento a mi me hizo falta y como no existía, lo cree.
 
-2. **Cuando trato de desplegar el proyecto Github me da error**
+2. **Cuando trato de desplegar el proyecto Github me da error**  
 Hay un error en tus personalizaciones, vuelve una versión atrás o intenta re hacer la publicación
 
-3. **Se rompió el diseñode columnas cuando elimine una categoría**
+3. **Se rompió el diseñode columnas cuando elimine una categoría**  
 Fijate que no hayas dejado un ***<Main>*** sin cerrar o abrir
 
-4. **Cuando quiero hacer mi propia categorización que debo hacer?**
+4. **Cuando quiero hacer mi propia categorización que debo hacer?**  
 Revisa en el ***style.css*** y copiar basándote en las otras categorizaciones como ejemplo, también puedes usar los mismos nombres de categorización pero cambiar los colores de las casas y los fondos simplemente. No olvides modificar en el ***index.html*** en caso de que haga falta
 
-5. **No voy a usar el contador de casas ni quiero usar el trazo de pasos con el mouse**
+5. **No voy a usar el contador de casas ni quiero usar el trazo de pasos con el mouse**  
 Simplemente elimina el ***"<script src="./main.js"></script>"*** al final del ***index.html***
 
-6. **Y si solo quiero usar una de esas dos funciones?**
+6. **Y si solo quiero usar una de esas dos funciones?**  
 Entra en el ***main.js*** y elimina la que ya no quieras usar (están nombradas)
 
-7. **Cambié los nombres de las categorizaciones y ahora no se cuentan las casas**
+7. **Cambié los nombres de las categorizaciones y ahora no se cuentan las casas**  
 Simplemente tienes que añadir los términos en el ***main.js***
 
-8. **Quiero cambiar los emblemas de los contadores, como lo hago?**
+8. **Quiero cambiar los emblemas de los contadores, como lo hago?**  
 Modifica en el ***style.css***
 
 ## Autor
