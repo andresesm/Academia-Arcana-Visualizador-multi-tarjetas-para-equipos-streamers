@@ -82,6 +82,17 @@ header {
     box-sizing: border-box;
 }
 
+
+.betozocontainer {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+    max-width: 300px;
+    margin: 0 auto;
+    justify-items: center;
+    padding: 60px 20px;
+    box-sizing: border-box;
+}
+
 /*GRID CONTADORES DE CASAS*/
 .housescounter-container {
     display: grid;
