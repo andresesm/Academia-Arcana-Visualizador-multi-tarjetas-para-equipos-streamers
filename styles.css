@@ -89,7 +89,7 @@ header {
     max-width: 300px;
     margin: 0 auto;
     justify-items: center;
-    padding: 60px 20px;
+    /*padding: 60px 20px;*/ no necesario
     box-sizing: border-box;
 }
 
@@ -513,7 +513,7 @@ padding-bottom: 60px; /* Comentar completo si se está usando la atribución en 
 
 .betozo {
     font-family: 'Manufacturing Consent', Arial, sans-serif;
-    font-size: 1.5rem;
+    font-size: 2rem;
     margin: 5px auto;
     text-align: center;
     grid-column: 1 / -1; /*salto de linea*/
