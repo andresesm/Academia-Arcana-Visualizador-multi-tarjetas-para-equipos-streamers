@@ -499,3 +499,15 @@ padding-bottom: 60px; /* Comentar completo si se está usando la atribución en 
     50% { background-position: 400% 0; }
     100% { background-position: 0 0; }
 }
+
+.betozo {
+    font-family: 'Manufacturing Consent', Arial, sans-serif;
+    font-size: 1.5rem;
+    margin: 5px auto;
+    text-align: center;
+    grid-column: 1 / -1; /*salto de linea*/
+    /* texto centrado*/
+    display: block;
+    width: 100%;
+    /* texto centrado*/
+}
