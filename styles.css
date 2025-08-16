@@ -348,10 +348,16 @@ header {
     -webkit-mask-image: url('assets/icon/kick.svg');
 }
 
-/* Twitter */
+/* Kick alt */
 .icon-kickalt {
     mask-image: url('assets/icon/kick-alt.svg');
     -webkit-mask-image: url('assets/icon/kick-alt.svg');
+}
+
+/* Twitter */
+.icon-twitch {
+    mask-image: url('assets/icon/twitter.svg');
+    -webkit-mask-image: url('assets/icon/twitter.svg');
 }
 
 /* Twitch */
