@@ -413,7 +413,7 @@ padding-bottom: 60px; /* Comentar completo si se está usando la atribución en 
 .footer-x img {
 /*  width: 10%;
   max-width: 40px;*/
-  height: auto;
+  height: 25px;
   opacity: 0.8;
 }
 
