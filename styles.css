@@ -366,7 +366,7 @@ header {
 }
 
 /* Twitter */
-.icon-twitch {
+.icon-twitter {
     mask-image: url('assets/icon/twitter.svg');
     -webkit-mask-image: url('assets/icon/twitter.svg');
 }
