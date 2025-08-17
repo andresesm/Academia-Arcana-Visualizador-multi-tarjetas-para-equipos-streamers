@@ -89,8 +89,8 @@ header {
     max-width: 300px;
     margin: 0 auto;
     justify-items: center;
-    /*padding: 60px 20px;*/ no necesario
-    box-sizing: border-box;
+    /*padding: 60px 20px;*/ /*no necesario/*
+    box-sizing: border-box;*/
 }
 
 /*GRID CONTADORES DE CASAS*/
@@ -182,6 +182,7 @@ header {
     background: -webkit-linear-gradient(transparent, transparent), -webkit-linear-gradient(top, rgba(218,165,32,1) 0%, rgba(213,173,109,1) 26%, rgba(226,186,120,1) 35%, rgba(163,126,67,1) 45%, rgba(212,175,55,1) 61%, rgba(213,173,109,1) 100%);
     background: -o-linear-gradient(transparent, transparent);
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
     /*text-shadow: 0px 0px 10px rgba(212,175,55,.5);*/
     /*Gradiente de color dorada fin*/ 
@@ -449,6 +450,17 @@ padding-bottom: 60px; /* Comentar completo si se está usando la atribución en 
   padding-bottom: 60px;
 }
 
+.betozo {
+    font-family: 'Manufacturing Consent', Arial, sans-serif;
+    font-size: 2rem;
+    margin: 5px auto;
+    text-align: center;
+    grid-column: 1 / -1; /*salto de linea*/
+    /* texto centrado*/
+    display: block;
+    width: 100%;
+    /* texto centrado*/
+}
 
 /*BOTON*/
 .glow-on-hover {
@@ -509,16 +521,4 @@ padding-bottom: 60px; /* Comentar completo si se está usando la atribución en 
     0% { background-position: 0 0; }
     50% { background-position: 400% 0; }
     100% { background-position: 0 0; }
-}
-
-.betozo {
-    font-family: 'Manufacturing Consent', Arial, sans-serif;
-    font-size: 2rem;
-    margin: 5px auto;
-    text-align: center;
-    grid-column: 1 / -1; /*salto de linea*/
-    /* texto centrado*/
-    display: block;
-    width: 100%;
-    /* texto centrado*/
 }
