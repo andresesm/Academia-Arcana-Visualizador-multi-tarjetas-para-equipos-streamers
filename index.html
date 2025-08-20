@@ -53,7 +53,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Academia Arcana III 🪄</title>
     <link href="https://fonts.googleapis.com/css2?family=Manufacturing+Consent&display=swap" rel="stylesheet">
-    <link rel="stylesheet" href="styles.css">
+    <link rel="preload" href="styles.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <link rel="manifest" href="assets/favicon/site.webmanifest">
     <link rel="icon" type="image/webp" sizes="192x192" href="assets/favicon/android-chrome-192x192.webp">
     <link rel="icon" type="image/webp" sizes="512x512" href="assets/favicon/android-chrome-512x512.webp">
@@ -65,7 +65,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
     <header>
     <div class="logo">
-    <img src="assets/logo.webp" alt="Academia Arcana 3">
+    <img src="assets/logo.webp" alt="Academia Arcana 3" fetchpriority="high">
     </div>
     </header>
     <main class="generalcounter-container">
@@ -109,7 +109,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
     <h2 class="hp">Admins</h2>
          <main class="card-container">
         <div class="profile-card">
-            <img class="avatar lazy-img" data-src="assets/avatar/profesores/tumbarancho.webp" alt="Foto de perfil">
+            <img class="avatar lazy-img" data-src="assets/avatar/profesores/tumbarancho.webp" alt="Foto de perfil" fetchpriority="high">
             <div class="info">
                 <strong>TumbaRancho</strong><br>
                 <em></em>
@@ -121,7 +121,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         </div>
         </div>
         <div class="profile-card">
-            <img class="avatar lazy-img" data-src="assets/avatar/profesores/korillo.webp" alt="Foto de perfil">
+            <img class="avatar lazy-img" data-src="assets/avatar/profesores/korillo.webp" alt="Foto de perfil" fetchpriority="high">
             <div class="info">
                 <strong>Korillo</strong><br>
                 <em> </em>
@@ -348,6 +348,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
         Serie y base de datos por <strong>TK Studios</strong><br>Web por <strong>Billy Billete 空</strong>
     </div>
 
-    <script src="./main.js"></script>
+    <script src="./main.js" defer></script>
 </body>
 </html>
