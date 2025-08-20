@@ -87,8 +87,8 @@ function putStep(x1, y1, x2, y2) {
 function createStepElement() {
   const step = document.createElement('img');
   step.src = (stepSide === 'left') 
-    ? './assets/effects/wleft.png' 
-    : './assets/effects/wright.png';
+    ? './assets/effects/wleft.webp' 
+    : './assets/effects/wright.webp';
 
   stepSide = (stepSide === 'left') ? 'right' : 'left';
   document.body.appendChild(step);
