@@ -12,26 +12,6 @@
     }
   });
 
-// lazy load
-document.addEventListener("DOMContentLoaded", () => {
-  const lazyImages = document.querySelectorAll(".card-container img.lazy-img");
-
-  const imageObserver = new IntersectionObserver((entries, observer) => {
-    entries.forEach(entry => {
-      if (entry.isIntersecting) {
-        const img = entry.target;
-        img.src = img.dataset.src;   // pasa data-src a src
-        img.classList.remove("lazy-img"); // opcional, ya no es lazy
-        observer.unobserve(img); // deja de observar esta imagen
-      }
-    });
-  });
-
-  lazyImages.forEach(img => {
-    imageObserver.observe(img);
-  });
-});
-
 
 // Pasos - Script //
 const DISTANCE_BETWEEN_STEPS = 50; // in px
