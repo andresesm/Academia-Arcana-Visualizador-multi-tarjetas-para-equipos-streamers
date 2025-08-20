@@ -23,19 +23,6 @@ body {
 }
 /*Fin pasos*/
 
-
-/*Lazy load*/
-.lazy-img {
-  filter: blur(8px);
-  transition: filter 0.3s ease;
-}
-
-.lazy-img.loaded {
-  filter: blur(0);
-}
-/*Fin lazy load*/
-
-
 /*INICIO CONTENEDOR MOVILES*/
 @media (max-width: 768px) {
     body {
