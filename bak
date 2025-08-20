@@ -1,0 +1,213 @@
+    <!--<h2 class="hp">Estudiantes</h2>
+        <main class="card-container">
+        <div class="profile-card">
+            <img class="avatar" src="assets/avatar/1.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>Pepito José</strong><br>
+                <em>Estudiante de Gryffindor</em>
+            </div>
+        <div class="social-box gry">
+                <a href="https://www.google.com/"><span class="icon icon-twitch"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-kick"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-x"></span></a>
+        </div>
+        </div>
+        <div class="profile-card">
+            <img class="avatar" src="assets/avatar/1.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>José Pepito</strong><br>
+                <em>Estudiante de Slytherin</em>
+            </div>
+        <div class="social-box sly">
+                <a href="https://www.google.com/"><span class="icon icon-twitch"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-kick"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-x"></span></a>
+        </div>
+        </div>
+        <div class="profile-card">
+            <img class="avatar" src="assets/avatar/1.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>Pepito Alejandro</strong><br>
+                <em>Estudiante de Hufflepuff</em>
+            </div>
+        <div class="social-box sor">
+                <a href="https://www.google.com/"><span class="icon icon-twitch"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-kick"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-x"></span></a>
+        </div>
+        </div>
+        <div class="profile-card">
+            <img class="avatar" src="assets/avatar/1.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>José Pepito</strong><br>
+                <em>Estudiante de Ravenclaw</em>
+            </div>
+        <div class="social-box rav">
+                <a href="https://www.google.com/"><span class="icon icon-twitch"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-kick"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-x"></span></a>
+        </div>
+        </div>
+                <div class="profile-card">
+            <img class="avatar" src="assets/avatar/1.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>Pepito José</strong><br>
+                <em>Estudiante de Gryffindor</em>
+            </div>
+        <div class="social-box gry">
+                <a href="https://www.google.com/"><span class="icon icon-twitch"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-kick"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-x"></span></a>
+        </div>
+        </div>
+        <div class="profile-card">
+            <img class="avatar" src="assets/avatar/1.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>José Pepito</strong><br>
+                <em>Estudiante de Slytherin</em>
+            </div>
+        <div class="social-box sor">
+                <a href="https://www.google.com/"><span class="icon icon-twitch"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-kick"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-x"></span></a>
+        </div>
+        </div>
+        <div class="profile-card">
+            <img class="avatar" src="assets/avatar/1.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>Pepito Alejandro</strong><br>
+                <em>Estudiante de Hufflepuff</em>
+            </div>
+        <div class="social-box huf">
+                <a href="https://www.google.com/"><span class="icon icon-twitch"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-kick"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-x"></span></a>
+        </div>
+        </div>
+        <div class="profile-card">
+            <img class="avatar" src="assets/avatar/1.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>José Pepito</strong><br>
+                <em>Estudiante de Ravenclaw</em>
+            </div>
+        <div class="social-box rav">
+                <a href="https://www.google.com/"><span class="icon icon-twitch"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-kick"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-x"></span></a>
+        </div>
+        </div>
+                <div class="profile-card">
+            <img class="avatar" src="assets/avatar/1.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>Pepito José</strong><br>
+                <em>Estudiante de Gryffindor</em>
+            </div>
+        <div class="social-box gry">
+                <a href="https://www.google.com/"><span class="icon icon-twitch"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-kick"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-x"></span></a>
+        </div>
+        </div>
+        <div class="profile-card">
+            <img class="avatar" src="assets/avatar/1.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>José Pepito</strong><br>
+                <em>Estudiante de Slytherin</em>
+            </div>
+        <div class="social-box sly">
+                <a href="https://www.google.com/"><span class="icon icon-twitch"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-kick"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-x"></span></a>
+        </div>
+        </div>
+        <div class="profile-card">
+            <img class="avatar" src="assets/avatar/1.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>Pepito Alejandro</strong><br>
+                <em>Estudiante de Hufflepuff</em>
+            </div>
+        <div class="social-box huf">
+                <a href="https://www.google.com/"><span class="icon icon-twitch"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-kick"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-x"></span></a>
+        </div>
+        </div>
+        <div class="profile-card">
+            <img class="avatar" src="assets/avatar/1.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>José Pepito</strong><br>
+                <em>Estudiante de Ravenclaw</em>
+            </div>
+        <div class="social-box rav">
+                <a href="https://www.google.com/"><span class="icon icon-twitch"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-kick"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-x"></span></a>
+        </div>
+        </div>
+                <div class="profile-card">
+            <img class="avatar" src="assets/avatar/1.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>Pepito José</strong><br>
+                <em>Estudiante de Gryffindor</em>
+            </div>
+        <div class="social-box gry">
+                <a href="https://www.google.com/"><span class="icon icon-twitch"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-kick"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-x"></span></a>
+        </div>
+        </div>
+        <div class="profile-card">
+            <img class="avatar" src="assets/avatar/1.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>José Pepito</strong><br>
+                <em>Estudiante de Slytherin</em>
+            </div>
+        <div class="social-box sor">
+                <a href="https://www.google.com/"><span class="icon icon-twitch"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-kick"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-x"></span></a>
+        </div>
+        </div>
+        <div class="profile-card">
+            <img class="avatar" src="assets/avatar/1.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>Pepito Alejandro</strong><br>
+                <em>Estudiante de Hufflepuff</em>
+            </div>
+        <div class="social-box sor">
+                <a href="https://www.google.com/"><span class="icon icon-twitch"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-kick"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-x"></span></a>
+        </div>
+        </div>
+        <div class="profile-card">
+            <img class="avatar" src="assets/avatar/1.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>José Pepito</strong><br>
+                <em>Estudiante de Ravenclaw</em>
+            </div>
+        <div class="social-box rav">
+                <a href="https://www.google.com/"><span class="icon icon-twitch"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-kick"></span></a>
+                <a href="https://www.google.com/"><span class="icon icon-x"></span></a>
+        </div>
+        </div>
+    </main>-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <!--<div class="svg-footer">
+        <img src="./assets/icon/kuumediawhite.svg" class="svg-center" alt="Kúu Media Logo">
+    </div>-->

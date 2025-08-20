@@ -23,6 +23,19 @@ body {
 }
 /*Fin pasos*/
 
+
+/*Lazy load*/
+.lazy-img {
+  filter: blur(8px);
+  transition: filter 0.3s ease;
+}
+
+.lazy-img.loaded {
+  filter: blur(0);
+}
+/*Fin lazy load*/
+
+
 /*INICIO CONTENEDOR MOVILES*/
 @media (max-width: 768px) {
     body {
@@ -219,42 +232,42 @@ header {
 
 /* Variable Admins */
 .profile-card:has(.social-box.adm) {
-    background-image: url('assets/bg/ADM.png');
+    background-image: url('assets/bg/ADM.webp');
 }
 
 /* Variable Hogwarts */
 .profile-card:has(.social-box.hog) {
-    background-image: url('assets/bg/HOG.png');
+    background-image: url('assets/bg/HOG.webp');
 }
 
 /* Variable Sorting Hat */
 .profile-card:has(.social-box.sor) {
-    background-image: url('assets/bg/SOR.png');
+    background-image: url('assets/bg/SOR.webp');
 }
 
 /* Variable Gryffindor */
 .profile-card:has(.social-box.gry) {
-    background-image: url('assets/bg/GRY.png');
+    background-image: url('assets/bg/GRY.webp');
 }
 
 /* Variable Slytherin */
 .profile-card:has(.social-box.sly) {
-    background-image: url('assets/bg/SLY.png');
+    background-image: url('assets/bg/SLY.webp');
 }
 
 /* Variable Ravenclaw */
 .profile-card:has(.social-box.rav) {
-    background-image: url('assets/bg/RAV.png');
+    background-image: url('assets/bg/RAV.webp');
 }
 
 /* Variable Hufflepuff */
 .profile-card:has(.social-box.huf) {
-    background-image: url('assets/bg/HUF.png');
+    background-image: url('assets/bg/HUF.webp');
 }
 
 /* NO USADO Variable Marca maldita */
 .profile-card:has(.social-box.dmv) {
-    background-image: url('assets/bg/DMV.png');
+    background-image: url('assets/bg/DMV.webp');
 }
 
 /* Foto de perfil */

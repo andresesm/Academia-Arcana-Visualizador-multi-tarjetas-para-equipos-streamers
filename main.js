@@ -12,6 +12,29 @@
     }
   });
 
+// Lazy load //
+document.addEventListener("DOMContentLoaded", () => {
+  const imgs = document.querySelectorAll("img.lazy-img");
+  
+  const observer = new IntersectionObserver((entries, obs) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        const img = entry.target;
+        img.src = img.dataset.src; // se asigna la ruta real
+        img.onload = () => img.classList.add("loaded"); // opcional, para animación
+        img.removeAttribute("data-src");
+        obs.unobserve(img);
+      }
+    });
+  }, { rootMargin: "200px" }); // carga antes de aparecer
+
+  imgs.forEach(img => observer.observe(img));
+});
+
+
+
+
+
 // Pasos - Script //
 const DISTANCE_BETWEEN_STEPS = 50; // in px
 const TIME_BEFORE_REMOVE_STEP = 700; // in milliseconds
