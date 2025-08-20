@@ -12,9 +12,9 @@
     }
   });
 
-// Lazy load //
+// lazy load
 document.addEventListener("DOMContentLoaded", () => {
-  const imgs = document.querySelectorAll("img.lazy-img");
+  const imgs = document.querySelectorAll(".card-container img.lazy-img");
   
   const observer = new IntersectionObserver((entries, obs) => {
     entries.forEach(entry => {
@@ -30,9 +30,6 @@ document.addEventListener("DOMContentLoaded", () => {
 
   imgs.forEach(img => observer.observe(img));
 });
-
-
-
 
 
 // Pasos - Script //
