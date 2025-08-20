@@ -14,21 +14,22 @@
 
 // lazy load
 document.addEventListener("DOMContentLoaded", () => {
-  const imgs = document.querySelectorAll(".card-container img.lazy-img");
-  
-  const observer = new IntersectionObserver((entries, obs) => {
+  const lazyImages = document.querySelectorAll(".card-container img.lazy-img");
+
+  const imageObserver = new IntersectionObserver((entries, observer) => {
     entries.forEach(entry => {
       if (entry.isIntersecting) {
         const img = entry.target;
-        img.src = img.dataset.src; // se asigna la ruta real
-        img.onload = () => img.classList.add("loaded"); // opcional, para animación
-        img.removeAttribute("data-src");
-        obs.unobserve(img);
+        img.src = img.dataset.src;   // pasa data-src a src
+        img.classList.remove("lazy-img"); // opcional, ya no es lazy
+        observer.unobserve(img); // deja de observar esta imagen
       }
     });
-  }, { rootMargin: "200px" }); // carga antes de aparecer
+  });
 
-  imgs.forEach(img => observer.observe(img));
+  lazyImages.forEach(img => {
+    imageObserver.observe(img);
+  });
 });
 
 
