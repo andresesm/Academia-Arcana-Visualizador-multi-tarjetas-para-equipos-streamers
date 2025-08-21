@@ -148,6 +148,38 @@ header {
   z-index: 1;
 }
 
+/* countdown */
+#countdown {
+  display: flex;
+  gap: 15px;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.time-box {
+  background: #1c2331; /* azul oscuro elegante */
+  color: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  width: 90px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.3);
+}
+
+.time-box span {
+  display: block;
+  font-size: 32px;
+  font-weight: bold;
+}
+
+.time-box p {
+  margin: 0;
+  font-size: 12px;
+  letter-spacing: 1px;
+  color: #aaa;
+}
+
+
 /* Personalización de fondo x casa, no creo que se use, faltan categorías */
 .house-counter.gry { background-color: white; }
 .house-counter.sly { background-color: white; }
