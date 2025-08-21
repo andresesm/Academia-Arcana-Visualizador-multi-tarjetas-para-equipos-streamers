@@ -9,6 +9,12 @@ body {
     background-color: #000000;
 }
 
+/* mantiene scroll vertical y oculta scroll horizontal */
+html, body {
+  overflow-x: hidden; 
+  overflow-y: auto;   
+}
+
 /*Estilo pasos*/
     .steps {
         position: absolute;
