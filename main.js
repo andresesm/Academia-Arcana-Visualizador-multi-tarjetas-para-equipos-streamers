@@ -14,7 +14,7 @@
 
 
 // Countdown // 
-const countdownDate = new Date("September 5, 2025 00:00:00").getTime();
+const countdownDate = new Date("September 5, 2025 19:00:00").getTime();
 
 const countdownFunction = setInterval(() => {
   const now = new Date().getTime();
