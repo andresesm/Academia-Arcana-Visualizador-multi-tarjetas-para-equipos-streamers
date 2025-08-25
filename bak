@@ -1,3 +1,6 @@
+INCOMPLETO, REVISAR NUEVAMENTE, POR ALGUN PUTO MOTIVO NO SE TRASLADAN
+
+
 <!--<h2 class="hp">Estudiantes</h2>
         <main class="card-container">
 <div class="profile-card">
@@ -416,7 +419,6 @@
     </div>
 <div class="social-box sor">
         <a href="https://kick.com/itzmaiik"><span class="icon icon-kick"></span></a>
-        <a href=""><span class="icon icon-twitter"></span></a>
         <a href="https://www.instagram.com/itz.maiik"><span class="icon icon-instagram"></span></a>
 </div>
 </div>
@@ -608,7 +610,6 @@
     </div>
 <div class="social-box sor">
         <a href="https://www.twitch.tv/nickgame98"><span class="icon icon-twitch"></span></a>
-        <a href=""><span class="icon icon-twitter"></span></a>
         <a href="https://www.instagram.com/nickgame98_/"><span class="icon icon-instagram"></span></a>
 </div>
 </div>
@@ -826,6 +827,102 @@
         <a href="https://www.twitch.tv/tifani10p"><span class="icon icon-twitch"></span></a>
         <a href="https://x.com/Tifani10P"><span class="icon icon-twitter"></span></a>
         <a href="https://www.instagram.com/tifani10pm/"><span class="icon icon-instagram"></span></a>
+</div>
+</div>
+<div class="profile-card">
+    <img class="avatar" src="assets/avatar/titoaxzel.webp" alt="Foto de perfil">
+    <div class="info">
+        <strong>Kurt (Elfo ) Si Se Puede,</strong><br>
+        <em>Admitido en la Academia</em>
+    </div>
+<div class="social-box sor">
+        <a href="https://www.twitch.tv/titoaxzel"><span class="icon icon-twitch"></span></a>
+        <a href="https://x.com/titoaxzel"><span class="icon icon-twitter"></span></a>
+        <a href="https://www.instagram.com/titoaxzel/"><span class="icon icon-instagram"></span></a>
+</div>
+</div>
+<div class="profile-card">
+    <img class="avatar" src="assets/avatar/Tnoisetv.webp" alt="Foto de perfil">
+    <div class="info">
+        <strong>Tibor Marlowe</strong><br>
+        <em>Admitido en la Academia</em>
+    </div>
+<div class="social-box sor">
+        <a href="https://www.twitch.tv/tnoisetv"><span class="icon icon-twitch"></span></a>
+        <a href="https://x.com/Tnoisetv"><span class="icon icon-twitter"></span></a>
+        <a href="https://Instagram.com/tnoisetv"><span class="icon icon-instagram"></span></a>
+</div>
+</div>
+<div class="profile-card">
+    <img class="avatar" src="assets/avatar/TyferieL.webp" alt="Foto de perfil">
+    <div class="info">
+        <strong>Maris Corax</strong><br>
+        <em>Admitido en la Academia</em>
+    </div>
+<div class="social-box sor">
+        <a href="https://www.twitch.tv/tyferiel"><span class="icon icon-twitch"></span></a>
+        <a href="https://x.com/TyferieL"><span class="icon icon-twitter"></span></a>
+        <a href="https://www.instagram.com/tyferiel/"><span class="icon icon-instagram"></span></a>
+</div>
+</div>
+<div class="profile-card">
+    <img class="avatar" src="assets/avatar/Valentinarogil.webp" alt="Foto de perfil">
+    <div class="info">
+        <strong>Valiniexys Rogil / Liliana Vess</strong><br>
+        <em>Admitido en la Academia</em>
+    </div>
+<div class="social-box sor">
+        <a href="https://www.twitch.tv/valentinarogil"><span class="icon icon-twitch"></span></a>
+        <a href="https://x.com/valentinarogil"><span class="icon icon-twitter"></span></a>
+        <a href="https://www.instagram.com/valentinarogil"><span class="icon icon-instagram"></span></a>
+</div>
+</div>
+<div class="profile-card">
+    <img class="avatar" src="assets/avatar/Veroskky.webp" alt="Foto de perfil">
+    <div class="info">
+        <strong>Veroskky Cotorrafloja Crow</strong><br>
+        <em>Admitido en la Academia</em>
+    </div>
+<div class="social-box sor">
+        <a href="https://www.twitch.tv/veroskky"><span class="icon icon-twitch"></span></a>
+        <a href="https://x.com/Veroskky"><span class="icon icon-twitter"></span></a>
+        <a href="https://www.instagram.com/veroskkyy"><span class="icon icon-instagram"></span></a>
+</div>
+</div>
+<div class="profile-card">
+    <img class="avatar" src="assets/avatar/VeryCherrii.webp" alt="Foto de perfil">
+    <div class="info">
+        <strong>Cherri Tereza De La Vega</strong><br>
+        <em>Admitido en la Academia</em>
+    </div>
+<div class="social-box sor">
+        <a href="https://www.twitch.tv/soyverycherrii"><span class="icon icon-twitch"></span></a>
+        <a href="https://x.com/Verycherrii"><span class="icon icon-twitter"></span></a>
+        <a href="https://www.instagram.com/verycherriii/"><span class="icon icon-instagram"></span></a>
+</div>
+</div>
+<div class="profile-card">
+    <img class="avatar" src="assets/avatar/Waltvg.webp" alt="Foto de perfil">
+    <div class="info">
+        <strong>Cedrick Snicket</strong><br>
+        <em>Admitido en la Academia</em>
+    </div>
+<div class="social-box sor">
+        <a href="https://www.twitch.tv/waltvg"><span class="icon icon-twitch"></span></a>
+        <a href="https://x.com/Waltvg"><span class="icon icon-twitter"></span></a>
+        <a href="https://www.instagram.com/Waltvg"><span class="icon icon-instagram"></span></a>
+</div>
+</div>
+<div class="profile-card">
+    <img class="avatar" src="assets/avatar/WiRRiel.webp" alt="Foto de perfil">
+    <div class="info">
+        <strong>Wirrielarius Frostvale</strong><br>
+        <em>Admitido en la Academia</em>
+    </div>
+<div class="social-box sor">
+        <a href="https://kick.com/wirriel"><span class="icon icon-kick"></span></a>
+        <a href="https://x.com/wirriel"><span class="icon icon-twitter"></span></a>
+        <a href="https://www.instagram.com/wirriel"><span class="icon icon-instagram"></span></a>
 </div>
 </div>
 </main>-->
