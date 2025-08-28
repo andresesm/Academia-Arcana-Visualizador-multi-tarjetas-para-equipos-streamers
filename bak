@@ -1,9 +1,9 @@
 <!--<h2 class="hp">Estudiantes</h2>
 <main class="card-container">
-        <div class="profile-card">
+                <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/AceBanhammer.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Solaria Cavendish</strong><br>
+                <strong>AceBanhammer</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -15,7 +15,7 @@
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/AkaiSeraphim.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Perriwimple Von Zarovich</strong><br>
+                <strong>AkaiSeraphim</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -27,31 +27,19 @@
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/AlexaFrc.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Cassandra Trelawney</strong><br>
+                <strong>AlexaFrc</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
                 <a href="https://www.twitch.tv/alexafrc"><span class="icon icon-twitch"></span></a>
                 <a href="https://x.com/AlexaFrc_"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/alexafrc_/"><span class="icon icon-instagram"></span></a>
-        </div>
-        </div>
-        <div class="profile-card">
-            <img class="avatar" src="assets/avatar/estudiantes/1.webp" alt="Foto de perfil">
-            <div class="info">
-                <strong>Almu.a.m (PENDIENTE)</strong><br>
-                <em>Admitido en la Academia</em>
-            </div>
-        <div class="social-box sor">
-                <a href="https://www.twitch.tv/alchris712"><span class="icon icon-twitch"></span></a>
-                <a href="https://x.com/christo81255282"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/Almu.a.m"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.instagram.com/alexafrc_"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Anbbit.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Anbbit (PENDIENTE)</strong><br>
+                <strong>Anbbit</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -63,7 +51,7 @@
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Anjhelyxd.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Anjhely Violiniustic Santos</strong><br>
+                <strong>Anjhelyxd</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -75,67 +63,91 @@
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/ArikaFD.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>ArikaFD (PENDIENTE)</strong><br>
+                <strong>ArikaFD</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
-                <a href="https://twitch.tv/ArikaCovers"><span class="icon icon-twitch"></span></a>
+                <a href="https://www.twitch.tv/ArikaCovers"><span class="icon icon-twitch"></span></a>
                 <a href="https://x.com/ArikaFD"><span class="icon icon-twitter"></span></a>
-                <a href="https://instagram.com/itsariri__"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.instagram.com/itsariri__"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Bambirini.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Valentine Bell</strong><br>
+                <strong>Bambirini</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
-                <a href="https://m.twitch.tv/bambirini"><span class="icon icon-twitch"></span></a>
+                <a href="https://www.twitch.tv/bambirini"><span class="icon icon-twitch"></span></a>
                 <a href="https://x.com/Valen_EJ"><span class="icon icon-twitter"></span></a>
                 <a href="https://www.instagram.com/bambiriniii"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
-            <img class="avatar" src="assets/avatar/estudiantes/1.webp" alt="Foto de perfil">
+            <img class="avatar" src="assets/avatar/estudiantes/Bauly_lb.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>barbhomet (PENDIENTE)</strong><br>
+                <strong>Bauly_lb</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
-                <a href="https://www.twitch.tv/barbhomet"><span class="icon icon-twitch"></span></a>
-                <a href="https://x.com/barbhomet"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/barbi.nt"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.twitch.tv/bauly_lb"><span class="icon icon-twitch"></span></a>
+                <a href="https://x.com/Bauly_lb"><span class="icon icon-twitter"></span></a>
+                <a href="https://www.instagram.com/bauly_lb"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Begettogamer.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Bergarius Black</strong><br>
+                <strong>Begettogamer</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
                 <a href="https://www.twitch.tv/begettogamer1"><span class="icon icon-twitch"></span></a>
                 <a href="https://x.com/Begettogamer1"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/begettogamer1/"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.instagram.com/begettogamer1"><span class="icon icon-instagram"></span></a>
+        </div>
+        </div>
+        <div class="profile-card">
+            <img class="avatar" src="assets/avatar/estudiantes/blvckpixell.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>blvckpixell</strong><br>
+                <em>Admitido en la Academia</em>
+            </div>
+        <div class="social-box sor">
+                <a href="https://www.twitch.tv/blvckpixell"><span class="icon icon-twitch"></span></a>
+                <a href="https://x.com/blvckpixell"><span class="icon icon-twitter"></span></a>
+                <a href="https://www.instagram.com/blvckpixell"><span class="icon icon-instagram"></span></a>
+        </div>
+        </div>
+        <div class="profile-card">
+            <img class="avatar" src="assets/avatar/estudiantes/Camivalente20.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>Camivalente20</strong><br>
+                <em>Admitido en la Academia</em>
+            </div>
+        <div class="social-box sor">
+                <a href="https://www.twitch.tv/Camivalente20"><span class="icon icon-twitch"></span></a>
+                <a href="https://x.com/Camivalente20"><span class="icon icon-twitter"></span></a>
+                <a href="https://www.instagram.com/camivalente20"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Capitanjere.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Crespuculus</strong><br>
+                <strong>Capitanjere</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
                 <a href="https://www.twitch.tv/capitanjere"><span class="icon icon-twitch"></span></a>
-                <a href="https://x.com/j_jmight"><span class="icon icon-twitter"></span></a>
+                <a href="https://x.com/j_jmight?s=21"><span class="icon icon-twitter"></span></a>
                 <a href="https://www.instagram.com/capitanjere"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Carlsite.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Carlsite (PENDIENTE)</strong><br>
+                <strong>Carlsite</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -147,7 +159,7 @@
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Catapocalipsis.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Abril Taldropsis</strong><br>
+                <strong>Catapocalipsis</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -157,21 +169,9 @@
         </div>
         </div>
         <div class="profile-card">
-            <img class="avatar" src="assets/avatar/estudiantes/1.webp" alt="Foto de perfil">
-            <div class="info">
-                <strong>Cherrywatt (PENDIENTE)</strong><br>
-                <em>Admitido en la Academia</em>
-            </div>
-        <div class="social-box sor">
-                <a href="https://www.twitch.tv/cherrywatt"><span class="icon icon-twitch"></span></a>
-                <a href="https://x.com/cherrywattt"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/cherrywattvt"><span class="icon icon-instagram"></span></a>
-        </div>
-        </div>
-        <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Chiringooo.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Chiringooo (PENDIENTE)</strong><br>
+                <strong>Chiringooo</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -181,21 +181,33 @@
         </div>
         </div>
         <div class="profile-card">
+            <img class="avatar" src="assets/avatar/estudiantes/clctecno.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>clctecno</strong><br>
+                <em>Admitido en la Academia</em>
+            </div>
+        <div class="social-box sor">
+                <a href="https://www.twitch.tv/clctecno"><span class="icon icon-twitch"></span></a>
+                <a href="https://x.com/clctecno"><span class="icon icon-twitter"></span></a>
+                <a href="https://www.instagram.com/clctecno"><span class="icon icon-instagram"></span></a>
+        </div>
+        </div>
+        <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/CRAZY.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>ESCRUPULO</strong><br>
+                <strong>CRAZY</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
                 <a href="https://kick.com/guitarristacrazy"><span class="icon icon-kick"></span></a>
                 <a href="https://x.com/guitarrCRAZY"><span class="icon icon-twitter"></span></a>
-                <a href="https://instagram.com/guitarristacrazy"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.instagram.com/guitarristacrazy"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/DalizerD.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Lysander Whisperwind</strong><br>
+                <strong>DalizerD</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -205,21 +217,33 @@
         </div>
         </div>
         <div class="profile-card">
+            <img class="avatar" src="assets/avatar/estudiantes/Dalyciosa.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>Dalyciosa</strong><br>
+                <em>Admitido en la Academia</em>
+            </div>
+        <div class="social-box sor">
+                <a href="https://www.twitch.tv/dalyciosa"><span class="icon icon-twitch"></span></a>
+                <a href="https://x.com/Dalyciosa"><span class="icon icon-twitter"></span></a>
+                <a href="https://www.instagram.com/dalyciosaa"><span class="icon icon-instagram"></span></a>
+        </div>
+        </div>
+        <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Danfer_go.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Danfer_go (PENDIENTE)</strong><br>
+                <strong>Danfer_go</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
                 <a href="https://www.twitch.tv/danfer_go"><span class="icon icon-twitch"></span></a>
                 <a href="https://x.com/Danfer_go"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/danfer_go/"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.instagram.com/danfer_go"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Dani_Thrasher.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Danius Black</strong><br>
+                <strong>Dani_Thrasher</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -229,21 +253,9 @@
         </div>
         </div>
         <div class="profile-card">
-            <img class="avatar" src="assets/avatar/estudiantes/1.webp" alt="Foto de perfil">
-            <div class="info">
-                <strong>Darkcore29 (PENDIENTE)</strong><br>
-                <em>Admitido en la Academia</em>
-            </div>
-        <div class="social-box sor">
-                <a href="https://www.twitch.tv/DarkC0re29/"><span class="icon icon-twitch"></span></a>
-                <a href="https://x.com/darkcore29"><span class="icon icon-twitter"></span></a>
-                <a href="Https://Instagram.com/darkcore29_/"><span class="icon icon-instagram"></span></a>
-        </div>
-        </div>
-        <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/dayvory.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Daria Scamander</strong><br>
+                <strong>dayvory</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -253,9 +265,33 @@
         </div>
         </div>
         <div class="profile-card">
+            <img class="avatar" src="assets/avatar/estudiantes/dobleboa.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>dobleboa</strong><br>
+                <em>Admitido en la Academia</em>
+            </div>
+        <div class="social-box sor">
+                <a href="https://www.twitch.tv/dobleboa"><span class="icon icon-twitch"></span></a>
+                <a href="https://x.com/dobleboa"><span class="icon icon-twitter"></span></a>
+                <a href="https://www.instagram.com/dobleboa"><span class="icon icon-instagram"></span></a>
+        </div>
+        </div>
+        <div class="profile-card">
+            <img class="avatar" src="assets/avatar/estudiantes/Dutzzan.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>Dutzzan</strong><br>
+                <em>Admitido en la Academia</em>
+            </div>
+        <div class="social-box sor">
+                <a href="https://www.twitch.tv/Dutzzan"><span class="icon icon-twitch"></span></a>
+                <a href="https://x.com/Dutzzan"><span class="icon icon-twitter"></span></a>
+                <a href="https://www.instagram.com/dutzzan"><span class="icon icon-instagram"></span></a>
+        </div>
+        </div>
+        <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Educastillo96.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Hudson Ford</strong><br>
+                <strong>Educastillo96</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -265,57 +301,33 @@
         </div>
         </div>
         <div class="profile-card">
-            <img class="avatar" src="assets/avatar/estudiantes/1.webp" alt="Foto de perfil">
-            <div class="info">
-                <strong>Electro Insanity (PENDIENTE)</strong><br>
-                <em>Admitido en la Academia</em>
-            </div>
-        <div class="social-box sor">
-                <a href="https://kick.com/electroinsanity"><span class="icon icon-kick"></span></a>
-                <a href="https://x.com/electroinsanity"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/electroinsanity"><span class="icon icon-instagram"></span></a>
-        </div>
-        </div>
-        <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Elizakyy.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Amanda Cáseres</strong><br>
+                <strong>Elizakyy</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
                 <a href="https://www.twitch.tv/elizakyy"><span class="icon icon-twitch"></span></a>
                 <a href="https://x.com/Elizakyy"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/elizakyy/"><span class="icon icon-instagram"></span></a>
-        </div>
-        </div>
-        <div class="profile-card">
-            <img class="avatar" src="assets/avatar/estudiantes/1.webp" alt="Foto de perfil">
-            <div class="info">
-                <strong>Elmikistriki (PENDIENTE)</strong><br>
-                <em>Admitido en la Academia</em>
-            </div>
-        <div class="social-box sor">
-                <a href="https://kick.com/elmikys"><span class="icon icon-kick"></span></a>
-                <a href="https://x.com/elmikistriki"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/elmikistrikis"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.instagram.com/elizakyy"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/ElMisterNixon.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>ElMisterNixon (PENDIENTE)</strong><br>
+                <strong>ElMisterNixon</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
                 <a href="https://www.twitch.tv/elmisternixon"><span class="icon icon-twitch"></span></a>
                 <a href="https://x.com/MisteerNixon"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/elmisternixon/"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.instagram.com/elmisternixon"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Elmithic.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Alexander Mitis Bones</strong><br>
+                <strong>Elmithic</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -327,7 +339,7 @@
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/ElWiki52.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Wikleyverson Greyverson</strong><br>
+                <strong>ElWiki52</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -339,11 +351,11 @@
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Faardaay.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Sabrina Lepush</strong><br>
+                <strong>Faardaay</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
-                <a href="https://www.twitch.tv/faardaay?sr=a"><span class="icon icon-twitch"></span></a>
+                <a href="https://www.twitch.tv/faardaay"><span class="icon icon-twitch"></span></a>
                 <a href="https://x.com/FaarDaay"><span class="icon icon-twitter"></span></a>
                 <a href="https://www.instagram.com/faardaay"><span class="icon icon-instagram"></span></a>
         </div>
@@ -351,7 +363,7 @@
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/FeirlyGab.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Ferli Yami Lestrange</strong><br>
+                <strong>FeirlyGab</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -363,7 +375,7 @@
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/GarvisK17.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Nicholas Moonshadow</strong><br>
+                <strong>GarvisK17</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -373,21 +385,33 @@
         </div>
         </div>
         <div class="profile-card">
-            <img class="avatar" src="assets/avatar/estudiantes/1.webp" alt="Foto de perfil">
+            <img class="avatar" src="assets/avatar/estudiantes/Gavyria.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Harrytoxzz (PENDIENTE)</strong><br>
+                <strong>Gavyria</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
-                <a href="https://www.twitch.tv/harrytoxzz"><span class="icon icon-twitch"></span></a>
-                <a href="https://x.com/Harrytoxzzz"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/harrytoxzz/"><span class="icon icon-instagram"></span></a>
+                <a href="https://kick.com/gavyriashow"><span class="icon icon-kick"></span></a>
+                <a href="https://x.com/Gavyria"><span class="icon icon-twitter"></span></a>
+                <a href="https://www.instagram.com/gavyria"><span class="icon icon-instagram"></span></a>
+        </div>
+        </div>
+        <div class="profile-card">
+            <img class="avatar" src="assets/avatar/estudiantes/HillyMami.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>HillyMami</strong><br>
+                <em>Admitido en la Academia</em>
+            </div>
+        <div class="social-box sor">
+                <a href="https://www.twitch.tv/hillymami"><span class="icon icon-twitch"></span></a>
+                <a href="https://x.com/hillymami"><span class="icon icon-twitter"></span></a>
+                <a href="https://www.instagram.com/hillymami"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/IamChewi.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Dakota Everest</strong><br>
+                <strong>IamChewi</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -399,19 +423,19 @@
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/itsslotaa.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Carlotina Fiodorovna</strong><br>
+                <strong>itsslotaa</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
                 <a href="https://kick.com/itslotaa"><span class="icon icon-kick"></span></a>
                 <a href="https://x.com/itsslotaa"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/itslotaaa/?hl=es"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.instagram.com/itslotaaa"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Itz.maiik.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Itz.maiik (PENDIENTE)</strong><br>
+                <strong>Itz.maiik</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -422,31 +446,31 @@
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/ivaneofi.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>ivanne valentti</strong><br>
+                <strong>ivaneofi</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
                 <a href="https://www.twitch.tv/ivaneofi"><span class="icon icon-twitch"></span></a>
                 <a href="https://x.com/Ivaneofi_"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/ivaneofi/"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.instagram.com/ivaneofi"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
-            <img class="avatar" src="assets/avatar/estudiantes/1.webp" alt="Foto de perfil">
+            <img class="avatar" src="assets/avatar/estudiantes/JaviAMF.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Jacobobito (PENDIENTE)</strong><br>
+                <strong>JaviAMF</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
-                <a href="https://m.twitch.tv/jacobobito"><span class="icon icon-twitch"></span></a>
-                <a href="https://x.com/jacobobito_"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/jacobobitow"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.twitch.tv/javiamf"><span class="icon icon-twitch"></span></a>
+                <a href="https://x.com/JaviAMf"><span class="icon icon-twitter"></span></a>
+                <a href="https://www.instagram.com/javiamf"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Jessibotes.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Anne T. Swift</strong><br>
+                <strong>Jessibotes</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -456,105 +480,129 @@
         </div>
         </div>
         <div class="profile-card">
-            <img class="avatar" src="assets/avatar/estudiantes/Johajohaaa.webp" alt="Foto de perfil">
+            <img class="avatar" src="assets/avatar/estudiantes/Jevitaa.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Luna wilkelis</strong><br>
+                <strong>Jevitaa</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
-                <a href="https://twitch.tv/johajohaaa"><span class="icon icon-twitch"></span></a>
+                <a href="https://www.twitch.tv/jevitaa_"><span class="icon icon-twitch"></span></a>
+                <a href="https://x.com/j3vitaa_"><span class="icon icon-twitter"></span></a>
+                <a href="https://www.instagram.com/jevitaa._"><span class="icon icon-instagram"></span></a>
+        </div>
+        </div>
+        <div class="profile-card">
+            <img class="avatar" src="assets/avatar/estudiantes/Jhovier.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>Jhovier</strong><br>
+                <em>Admitido en la Academia</em>
+            </div>
+        <div class="social-box sor">
+                <a href="https://www.twitch.tv/jhovier"><span class="icon icon-twitch"></span></a>
+                <a href="https://x.com/jhovierlv"><span class="icon icon-twitter"></span></a>
+                <a href="https://www.instagram.com/jhovierlv"><span class="icon icon-instagram"></span></a>
+        </div>
+        </div>
+        <div class="profile-card">
+            <img class="avatar" src="assets/avatar/estudiantes/Johajohaaa.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>Johajohaaa</strong><br>
+                <em>Admitido en la Academia</em>
+            </div>
+        <div class="social-box sor">
+                <a href="https://www.twitch.tv/johajohaaa"><span class="icon icon-twitch"></span></a>
                 <a href="https://x.com/Johajohaaa_"><span class="icon icon-twitter"></span></a>
                 <a href="https://www.instagram.com/johajohaaa_"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
-            <img class="avatar" src="assets/avatar/estudiantes/1.webp" alt="Foto de perfil">
-            <div class="info">
-                <strong>josmq (PENDIENTE)</strong><br>
-                <em>Admitido en la Academia</em>
-            </div>
-        <div class="social-box sor">
-                <a href="https://www.twitch.tv/josmq"><span class="icon icon-twitch"></span></a>
-                <a href="https://x.com/josmqttv"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/josmqttv"><span class="icon icon-instagram"></span></a>
-        </div>
-        </div>
-        <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/JuanTaicho.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Yoel Taldropsis/King Kobra</strong><br>
+                <strong>JuanTaicho</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
                 <a href="https://www.twitch.tv/juantaich0"><span class="icon icon-twitch"></span></a>
                 <a href="https://x.com/JuaTaicho"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/juan_taicho/"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.instagram.com/juan_taicho"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/k3ldro.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>kelser black</strong><br>
+                <strong>k3ldro</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
                 <a href="https://www.twitch.tv/k3ldro"><span class="icon icon-twitch"></span></a>
                 <a href="https://x.com/K3ldro_"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/k3ldro_/"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.instagram.com/k3ldro_"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
-            <img class="avatar" src="assets/avatar/estudiantes/1.webp" alt="Foto de perfil">
+            <img class="avatar" src="assets/avatar/estudiantes/Kappa.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>LIT DEIVI (PENDIENTE)</strong><br>
+                <strong>Kappa</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
-                <a href="https://kick.com/litdeivi"><span class="icon icon-kick"></span></a>
-                <a href="https://x.com/LitDeivi"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/litdeivi"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.twitch.tv/kappapito"><span class="icon icon-twitch"></span></a>
+                <a href="https://x.com/KappapitoGOD"><span class="icon icon-twitter"></span></a>
+                <a href="https://www.instagram.com/kappapito"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
-            <img class="avatar" src="assets/avatar/estudiantes/1.webp" alt="Foto de perfil">
+            <img class="avatar" src="assets/avatar/estudiantes/KevinBovi.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Lnanoz (PENDIENTE)</strong><br>
+                <strong>KevinBovi</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
-                <a href="https://kick.com/lnanoz"><span class="icon icon-kick"></span></a>
-                <a href="https://x.com/Lnanoz"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/lnanoz/"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.twitch.tv/kevinbovi"><span class="icon icon-twitch"></span></a>
+                <a href="https://x.com/kejobovi"><span class="icon icon-twitter"></span></a>
+                <a href="https://www.instagram.com/kejobovi"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/LuiyoG.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Yolver Galletano</strong><br>
+                <strong>LuiyoG</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
                 <a href="https://www.twitch.tv/luiyog"><span class="icon icon-twitch"></span></a>
                 <a href="https://x.com/LuiyoG"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/luiyog/"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.instagram.com/luiyog"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/manulanda.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>manulanda (PENDIENTE)</strong><br>
+                <strong>manulanda</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
                 <a href="https://www.twitch.tv/manulanda"><span class="icon icon-twitch"></span></a>
                 <a href="https://x.com/manulanda10"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/manulanda10/"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.instagram.com/manulanda10"><span class="icon icon-instagram"></span></a>
+        </div>
+        </div>
+        <div class="profile-card">
+            <img class="avatar" src="assets/avatar/estudiantes/Maryroqui.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>Maryroqui</strong><br>
+                <em>Admitido en la Academia</em>
+            </div>
+        <div class="social-box sor">
+                <a href="https://www.twitch.tv/maryroqui"><span class="icon icon-twitch"></span></a>
+                <a href="https://x.com/Maryroqui30"><span class="icon icon-twitter"></span></a>
+                <a href="https://www.instagram.com/maryroqui"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Melayrah.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Melayrah (PENDIENTE)</strong><br>
+                <strong>Melayrah</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -564,21 +612,33 @@
         </div>
         </div>
         <div class="profile-card">
-            <img class="avatar" src="assets/avatar/estudiantes/1.webp" alt="Foto de perfil">
+            <img class="avatar" src="assets/avatar/estudiantes/MishellGomez.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Misshell Gomez</strong><br>
+                <strong>Mishell Gomez</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
                 <a href="https://www.twitch.tv/mishellgomez"><span class="icon icon-twitch"></span></a>
                 <a href="https://x.com/MishellTwitch"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/mishellgomeez/"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.instagram.com/mishellgomeez"><span class="icon icon-instagram"></span></a>
+        </div>
+        </div>
+        <div class="profile-card">
+            <img class="avatar" src="assets/avatar/estudiantes/MrFranda.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>MrFranda</strong><br>
+                <em>Admitido en la Academia</em>
+            </div>
+        <div class="social-box sor">
+                <a href="https://www.twitch.tv/mrfranda"><span class="icon icon-twitch"></span></a>
+                <a href="https://x.com/MrFranda"><span class="icon icon-twitter"></span></a>
+                <a href="https://www.instagram.com/mrfranda"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/MrGuada99.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Nelson Smith (Gringo)</strong><br>
+                <strong>MrGuada99</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -588,32 +648,32 @@
         </div>
         </div>
         <div class="profile-card">
-            <img class="avatar" src="assets/avatar/estudiantes/1.webp" alt="Foto de perfil">
+            <img class="avatar" src="assets/avatar/estudiantes/NandaVT.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Mustatw (PENDIENTE)</strong><br>
+                <strong>NandaVT</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
-                <a href="https://www.twitch.tv/mustatw"><span class="icon icon-twitch"></span></a>
-                <a href="https://x.com/mustatwt"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/mustatw"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.twitch.tv/nandatayo"><span class="icon icon-twitch"></span></a>
+                <a href="https://x.com/tayonanda"><span class="icon icon-twitter"></span></a>
+                <a href="https://www.instagram.com/nandatayo.vt"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/nickgame98.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Franchezko</strong><br>
+                <strong>nickgame98</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
                 <a href="https://www.twitch.tv/nickgame98"><span class="icon icon-twitch"></span></a>
-                <a href="https://www.instagram.com/nickgame98_/"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.instagram.com/nickgame98_"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/NotCalletanoVT.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Calletano FlameHeart</strong><br>
+                <strong>NotCalletanoVT</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -625,31 +685,31 @@
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Onikng_.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Onifacio Quintero</strong><br>
+                <strong>Onikng_</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
                 <a href="https://www.twitch.tv/onikng_"><span class="icon icon-twitch"></span></a>
                 <a href="https://x.com/Onikng_"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/onikng__/"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.instagram.com/onikng__"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
-            <img class="avatar" src="assets/avatar/estudiantes/1.webp" alt="Foto de perfil">
+            <img class="avatar" src="assets/avatar/estudiantes/Portu.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Photis (PENDIENTE)</strong><br>
+                <strong>Portu</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
-                <a href="https://www.twitch.tv/phootis"><span class="icon icon-twitch"></span></a>
-                <a href="https://x.com/Photis_"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/photis._"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.twitch.tv/portuttv"><span class="icon icon-twitch"></span></a>
+                <a href="https://x.com/portuttv"><span class="icon icon-twitter"></span></a>
+                <a href="https://www.instagram.com/portuttv"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Prochutoo.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Prochutoo (PENDIENTE)</strong><br>
+                <strong>Prochutoo</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -659,21 +719,21 @@
         </div>
         </div>
         <div class="profile-card">
-            <img class="avatar" src="assets/avatar/estudiantes/1.webp" alt="Foto de perfil">
+            <img class="avatar" src="assets/avatar/estudiantes/R0an.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Puckry (PENDIENTE)</strong><br>
+                <strong>R0an</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
-                <a href="https://www.twitch.tv/puckry"><span class="icon icon-twitch"></span></a>
-                <a href="https://x.com/TTV_Puckry"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/puckry_"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.twitch.tv/roanokesk"><span class="icon icon-twitch"></span></a>
+                <a href="https://x.com/rohanok3"><span class="icon icon-twitter"></span></a>
+                <a href="https://www.instagram.com/roan0ke"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Raffanuzzo.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Rafael lusso</strong><br>
+                <strong>Raffanuzzo</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -683,21 +743,9 @@
         </div>
         </div>
         <div class="profile-card">
-            <img class="avatar" src="assets/avatar/estudiantes/1.webp" alt="Foto de perfil">
-            <div class="info">
-                <strong>ravenount (PENDIENTE)</strong><br>
-                <em>Admitido en la Academia</em>
-            </div>
-        <div class="social-box sor">
-                <a href="https://www.twitch.tv/ravenount"><span class="icon icon-twitch"></span></a>
-                <a href="https://x.com/Ravenount_"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/ravenoun1/"><span class="icon icon-instagram"></span></a>
-        </div>
-        </div>
-        <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/RealYisus.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Yisus Rial</strong><br>
+                <strong>RealYisus</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -709,55 +757,43 @@
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Saddu.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Saddu (PENDIENTE)</strong><br>
+                <strong>Saddu</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
                 <a href="https://www.twitch.tv/saddudette"><span class="icon icon-twitch"></span></a>
                 <a href="https://x.com/saddudette"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/saddudette_/"><span class="icon icon-instagram"></span></a>
-        </div>
-        </div>
-        <div class="profile-card">
-            <img class="avatar" src="assets/avatar/estudiantes/1.webp" alt="Foto de perfil">
-            <div class="info">
-                <strong>Sandía Ënjoyer (PENDIENTE)</strong><br>
-                <em>Admitido en la Academia</em>
-            </div>
-        <div class="social-box sor">
-                <a href="https://www.twitch.tv/sandia_enjoyer"><span class="icon icon-twitch"></span></a>
-                <a href="https://x.com/sandia_enjoyer"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/sandia.enjoyer"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.instagram.com/saddudette_"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Simonaliyt.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Simonaliyt (PENDIENTE)</strong><br>
+                <strong>Simonaliyt</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
                 <a href="https://www.twitch.tv/simonaliyt"><span class="icon icon-twitch"></span></a>
                 <a href="https://x.com/Simonalijpg"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/simonaliyt_/"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.instagram.com/simonaliyt_"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/SNOUSITO.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Trimaldo Von Zarovich</strong><br>
+                <strong>SNOUSITO</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
                 <a href="https://www.twitch.tv/snousito"><span class="icon icon-twitch"></span></a>
                 <a href="https://x.com/SNOUSITOOO"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/diego0800_/"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.instagram.com/diego0800_"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/SoyJoseSalazar.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Salazar Sayre</strong><br>
+                <strong>SoyJoseSalazar</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -769,7 +805,7 @@
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/SoyVino.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Yaseh Vino</strong><br>
+                <strong>SoyVino</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -779,33 +815,9 @@
         </div>
         </div>
         <div class="profile-card">
-            <img class="avatar" src="assets/avatar/estudiantes/1.webp" alt="Foto de perfil">
-            <div class="info">
-                <strong>SrGorio (PENDIENTE)</strong><br>
-                <em>Admitido en la Academia</em>
-            </div>
-        <div class="social-box sor">
-                <a href="https://www.twitch.tv/srgorioo"><span class="icon icon-twitch"></span></a>
-                <a href="https://x.com/Srgorio"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/srgorio"><span class="icon icon-instagram"></span></a>
-        </div>
-        </div>
-        <div class="profile-card">
-            <img class="avatar" src="assets/avatar/estudiantes/1.webp" alt="Foto de perfil">
-            <div class="info">
-                <strong>Svkotto (PENDIENTE)</strong><br>
-                <em>Admitido en la Academia</em>
-            </div>
-        <div class="social-box sor">
-                <a href="https://www.twitch.tv/svkottoo"><span class="icon icon-twitch"></span></a>
-                <a href="https://x.com/Svkottoo"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/svkotto"><span class="icon icon-instagram"></span></a>
-        </div>
-        </div>
-        <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Thepollo.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Pollito Picobrujo</strong><br>
+                <strong>Thepollo</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -817,67 +829,67 @@
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Tifani10P.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Tifani10P (PENDIENTE)</strong><br>
+                <strong>Tifani10P</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
                 <a href="https://www.twitch.tv/tifani10p"><span class="icon icon-twitch"></span></a>
                 <a href="https://x.com/Tifani10P"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/tifani10pm/"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.instagram.com/tifani10pm"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/titoaxzel.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>kurt (elfo ) si se puede,</strong><br>
+                <strong>titoaxzel</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
                 <a href="https://www.twitch.tv/titoaxzel"><span class="icon icon-twitch"></span></a>
                 <a href="https://x.com/titoaxzel"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/titoaxzel/"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.instagram.com/titoaxzel"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Tnoisetv.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Tibor Marlowe</strong><br>
+                <strong>Tnoisetv</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
                 <a href="https://www.twitch.tv/tnoisetv"><span class="icon icon-twitch"></span></a>
                 <a href="https://x.com/Tnoisetv"><span class="icon icon-twitter"></span></a>
-                <a href="https://Instagram.com/tnoisetv"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.instagram.com/tnoisetv"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/TyferieL.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Maris Corax</strong><br>
+                <strong>TyferieL</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
                 <a href="https://www.twitch.tv/tyferiel"><span class="icon icon-twitch"></span></a>
                 <a href="https://x.com/TyferieL"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/tyferiel/"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.instagram.com/tyferiel"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Valentinarogil.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Valiniexys Rogil / Liliana Vess</strong><br>
+                <strong>Valentinarogil</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
                 <a href="https://www.twitch.tv/valentinarogil"><span class="icon icon-twitch"></span></a>
                 <a href="https://x.com/valentinarogil"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/valentinarogil"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.instagram.com/valentinarogi"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Veroskky.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Veroskky CotorraFloja Crow</strong><br>
+                <strong>Veroskky</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -889,19 +901,31 @@
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/VeryCherrii.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Cherri Tereza De La Vega</strong><br>
+                <strong>VeryCherrii</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
                 <a href="https://www.twitch.tv/soyverycherrii"><span class="icon icon-twitch"></span></a>
                 <a href="https://x.com/Verycherrii"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/verycherriii/"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.instagram.com/verycherriii"><span class="icon icon-instagram"></span></a>
+        </div>
+        </div>
+        <div class="profile-card">
+            <img class="avatar" src="assets/avatar/estudiantes/VirginiaBurgos.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>VirginiaBurgos</strong><br>
+                <em>Admitido en la Academia</em>
+            </div>
+        <div class="social-box sor">
+                <a href="https://www.twitch.tv/virginiaburgos"><span class="icon icon-twitch"></span></a>
+                <a href="https://x.com/virginiaburgosh"><span class="icon icon-twitter"></span></a>
+                <a href="https://www.instagram.com/virginiaburgosh"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Waltvg.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Cedrick snicket</strong><br>
+                <strong>Waltvg</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -913,7 +937,7 @@
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/WiRRiel.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Wirrielarius Frostvale</strong><br>
+                <strong>WiRRiel</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -923,9 +947,21 @@
         </div>
         </div>
         <div class="profile-card">
+            <img class="avatar" src="assets/avatar/estudiantes/wleaa.webp" alt="Foto de perfil">
+            <div class="info">
+                <strong>wleaa</strong><br>
+                <em>Admitido en la Academia</em>
+            </div>
+        <div class="social-box sor">
+                <a href="https://kick.com/wleaa"><span class="icon icon-kick"></span></a>
+                <a href="https://x.com/wleaa_"><span class="icon icon-twitter"></span></a>
+                <a href="https://www.instagram.com/_wleaa"><span class="icon icon-instagram"></span></a>
+        </div>
+        </div>
+        <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Xamytc.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Xamy Scamander</strong><br>
+                <strong>Xamytc</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -937,7 +973,7 @@
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Yayazza.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Yaya Sunfire</strong><br>
+                <strong>Yayazza</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
@@ -947,38 +983,27 @@
         </div>
         </div>
         <div class="profile-card">
-            <img class="avatar" src="assets/avatar/estudiantes/1.webp" alt="Foto de perfil">
+            <img class="avatar" src="assets/avatar/estudiantes/Yohisneb.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>YenciDP (PENDIENTE)</strong><br>
+                <strong>Yohisneb</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
-                <a href="https://www.twitch.tv/yencidp"><span class="icon icon-twitch"></span></a>
-                <a href="https://x.com/Yencidep"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/yencidep"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.twitch.tv/yohisneb"><span class="icon icon-twitch"></span></a>
+                <a href="https://x.com/Yohisneb"><span class="icon icon-twitter"></span></a>
+                <a href="https://www.instagram.com/yohisneb"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
         <div class="profile-card">
-            <img class="avatar" src="assets/avatar/estudiantes/1.webp" alt="Foto de perfil">
+            <img class="avatar" src="assets/avatar/estudiantes/YoselynS2.webp" alt="Foto de perfil">
             <div class="info">
-                <strong>Yoshusempai (PENDIENTE)</strong><br>
+                <strong>YoselynS2</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
         <div class="social-box sor">
-                <a href="https://www.twitch.tv/Yoshusempai"><span class="icon icon-twitch"></span></a>
-                <a href="https://x.com/Yoshusempaii"><span class="icon icon-twitter"></span></a>
-        </div>
-        </div>
-        <div class="profile-card">
-            <img class="avatar" src="assets/avatar/estudiantes/1.webp" alt="Foto de perfil">
-            <div class="info">
-                <strong>Zafire (PENDIENTE)</strong><br>
-                <em>Admitido en la Academia</em>
-            </div>
-        <div class="social-box sor">
-                <a href="https://www.twitch.tv/zafirevt"><span class="icon icon-twitch"></span></a>
-                <a href="https://x.com/zafirevt"><span class="icon icon-twitter"></span></a>
-                <a href="https://www.instagram.com/zafirevt"><span class="icon icon-instagram"></span></a>
+                <a href="https://www.twitch.tv/yoselyns2__"><span class="icon icon-twitch"></span></a>
+                <a href="https://x.com/YoselynS2_"><span class="icon icon-twitter"></span></a>
+                <a href="https://www.instagram.com/yoselyns2_"><span class="icon icon-instagram"></span></a>
         </div>
         </div>
 </main>-->
