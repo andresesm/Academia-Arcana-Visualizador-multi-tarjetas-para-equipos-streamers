@@ -298,6 +298,18 @@
         <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/Dutzzan.webp" alt="Foto de perfil">
             <div class="info">
+                <strong>Dtowncat</strong><br>
+                <em>Admitido en la Academia</em>
+            </div>
+        <div class="social-box sor">
+                <a href="https://www.twitch.tv/dtowncat"><span class="icon icon-twitch"></span></a>
+                <a href="https://x.com/Dtowncat_"><span class="icon icon-twitter"></span></a>
+                <a href="https://www.instagram.com/dtowncat/"><span class="icon icon-instagram"></span></a>
+        </div>
+        </div>
+        <div class="profile-card">
+            <img class="avatar" src="assets/avatar/estudiantes/Dutzzan.webp" alt="Foto de perfil">
+            <div class="info">
                 <strong>Dutzzan</strong><br>
                 <em>Admitido en la Academia</em>
             </div>
