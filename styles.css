@@ -33,8 +33,6 @@ html, body {
 @media (max-width: 768px) {
     body {
         background-image: url('assets/bgmmcel.webp');
-        background-attachment: fixed;
-        background-position: center;
         background-color: #000000;
     }
 
