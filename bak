@@ -8,3 +8,63 @@
         <!--<div class="svg-footer">
         <img src="./assets/icon/kuumediawhite.svg" class="svg-center" alt="Kúu Media Logo">
     </div>-->
+
+
+
+
+
+
+
+
+    <!--
+   __          _           
+  / _|        | |          
+ | |_ ___  ___| |__   __ _ 
+ |  _/ _ \/ __| '_ \ / _` |
+ | ||  __/ (__| | | | (_| |
+ |_| \___|\___|_| |_|\__,_|
+                                                                                                                   
+-->  
+
+<div class="simply-countdown-dark">
+  <div class="simply-section">
+    <div><span id="days" class="simply-amount">0</span><span class="simply-word">Días</span></div>
+  </div>
+  <div class="simply-section">
+    <div><span id="hours" class="simply-amount">0</span><span class="simply-word">Horas</span></div>
+  </div>
+  <div class="simply-section">
+    <div><span id="minutes" class="simply-amount">0</span><span class="simply-word">Min</span></div>
+  </div>
+  <div class="simply-section">
+    <div><span id="seconds" class="simply-amount">0</span><span class="simply-word">Seg</span></div>
+  </div>
+</div>
+<br>
+
+
+js
+
+
+// Countdown // 
+const countdownDate = new Date("September 5, 2025 17:45:00").getTime();
+
+const countdownFunction = setInterval(() => {
+  const now = new Date().getTime();
+  const distance = countdownDate - now;
+
+  const days = Math.floor(distance / (1000 * 60 * 60 * 24));
+  const hours = Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60));
+  const minutes = Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60));
+  const seconds = Math.floor((distance % (1000 * 60)) / 1000);
+
+  document.getElementById("days").innerText = days;
+  document.getElementById("hours").innerText = hours;
+  document.getElementById("minutes").innerText = minutes;
+  document.getElementById("seconds").innerText = seconds;
+
+  if (distance < 0) {
+    clearInterval(countdownFunction);
+    document.querySelector(".simply-countdown-dark").innerHTML = "<h2>¡Evento finalizado!</h2>";
+  }
+}, 1000);
