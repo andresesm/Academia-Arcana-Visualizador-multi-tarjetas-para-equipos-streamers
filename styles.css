@@ -351,18 +351,24 @@ header {
 }
 
 /* Avatar con sombrero */
-.avatar.birth::after {
-    content: "";
+.avatar-birth {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    object-fit: cover;
     position: absolute;
-    top: -60px; /* Ajusta la altura del sombrero */
+    top: -50px;
     left: 50%;
     transform: translateX(-50%);
-    width: 120px;   
-    height: 120px;
-    background: url("assets/birth.webp") no-repeat center;
-    background-size: contain;
-    pointer-events: none; /* Hace que el sombrero sea "invisible" al clic */
-}
+    border: 3px solid #dac89f;
+
+    /* Aquí va el sombrero como capa superior */
+    background-image: url("assets/birth.webp");
+    background-repeat: no-repeat;
+    background-size: 120px auto;
+    background-position: center top -60px;
+    pointer-events: none; /* no molesta clics */
+    }
 
 /* Texto de la tarjeta */
 .info {
