@@ -350,25 +350,16 @@ header {
     border: 3px solid #dac89f;
 }
 
-/* Avatar con sombrero */
-.avatar-birth {
-    width: 100px;
-    height: 100px;
-    border-radius: 50%;
-    object-fit: cover;
-    position: absolute;
-    top: -50px;
-    left: 50%;
-    transform: translateX(-50%);
-    border: 3px solid #dac89f;
-
-    /* Aquí va el sombrero como capa superior */
-    background-image: url("assets/birth.webp");
-    background-repeat: no-repeat;
-    background-size: 120px auto;
-    background-position: center top -60px;
-    pointer-events: none; /* no molesta clics */
-    }
+/* Sombrero (pseudo-elemento del wrapper funciona bien) */
+.hat {
+    position:absolute;
+    top:-60px;
+    left:50%;
+    transform:translateX(-50%);
+    width:120px;
+    height:auto;
+    pointer-events:none;
+}
 
 /* Texto de la tarjeta */
 .info {
