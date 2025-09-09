@@ -350,6 +350,20 @@ header {
     border: 3px solid #dac89f;
 }
 
+/* Avatar con sombrero */
+.avatar.birth::after {
+    content: "";
+    position: absolute;
+    top: -60px; /* Ajusta la altura del sombrero */
+    left: 50%;
+    transform: translateX(-50%);
+    width: 120px;   
+    height: 120px;
+    background: url("assets/birth.webp") no-repeat center;
+    background-size: contain;
+    pointer-events: none; /* Hace que el sombrero sea "invisible" al clic */
+}
+
 /* Texto de la tarjeta */
 .info {
     margin-top: 20px;
