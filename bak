@@ -11,6 +11,37 @@
 
 
 
+    
+
+<h2 class="hp">Cumpleañeros</h2>
+         <main class="card-container">
+            <div class="profile-card">
+            <img class="avatar" src="assets/avatar/estudiantes/JuanTaicho.webp" alt="Foto de perfil">
+            <img class="hat" src="assets/birth.webp" alt="Cumpleañero" aria-hidden="true">
+            <div class="info">
+                <strong>JuanTaicho</strong><br>
+                <em>Yoel Taldropsis</em>
+            </div>
+        <div class="social-box sly">
+                <a href="https://www.twitch.tv/juantaich0"><span class="icon icon-twitch"></span></a>
+                <a href="https://x.com/JuanTaicho"><span class="icon icon-twitter"></span></a>
+                <a href="https://www.instagram.com/juan_taicho"><span class="icon icon-instagram"></span></a>
+        </div>
+        </div>
+        <div class="profile-card">
+            <img class="avatar" src="assets/avatar/estudiantes/Waltvg.webp" alt="Foto de perfil">
+            <img class="hat" src="assets/birth.webp" alt="Cumpleañero" aria-hidden="true">
+            <div class="info">
+                <strong>Waltvg</strong><br>
+                <em>Cedrick Snicket</em>
+            </div>
+        <div class="social-box gry">
+                <a href="https://www.twitch.tv/waltvg"><span class="icon icon-twitch"></span></a>
+                <a href="https://x.com/waltvg23"><span class="icon icon-twitter"></span></a>
+                <a href="https://www.instagram.com/Waltvg23"><span class="icon icon-instagram"></span></a>
+        </div>
+        </div>
+</main>
 
 
 
