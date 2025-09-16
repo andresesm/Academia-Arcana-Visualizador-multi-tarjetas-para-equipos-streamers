@@ -14,7 +14,6 @@
     
 
 
-         <main class="card-container">
             <div class="profile-card">
             <img class="avatar" src="assets/avatar/estudiantes/JuanTaicho.webp" alt="Foto de perfil">
             <img class="hat" src="assets/birth.webp" alt="Cumpleañero" aria-hidden="true">
